@@ -4,6 +4,7 @@
   <a href="https://kenimoto.dev"><img src="https://img.shields.io/badge/kenimoto.dev-1E3A5F?style=flat-square&logo=astro&logoColor=white" alt="Website" /></a>
   <a href="https://llmoframework.com"><img src="https://img.shields.io/badge/LLMO_Framework-1E3A5F?style=flat-square&logoColor=white" alt="LLMO Framework" /></a>
   <a href="https://x.com/kenimo49"><img src="https://img.shields.io/badge/X-1E3A5F?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://linkedin.com/in/kenimo49"><img src="https://img.shields.io/badge/LinkedIn-1E3A5F?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://zenn.dev/kenimo49"><img src="https://img.shields.io/badge/Zenn-1E3A5F?style=flat-square&logo=zenn&logoColor=white" alt="Zenn" /></a>
   <a href="https://qiita.com/kenimo49"><img src="https://img.shields.io/badge/Qiita-1E3A5F?style=flat-square&logo=qiita&logoColor=white" alt="Qiita" /></a>
   <a href="https://dev.to/kenimo49"><img src="https://img.shields.io/badge/dev.to-1E3A5F?style=flat-square&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
