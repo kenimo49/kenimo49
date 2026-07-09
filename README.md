@@ -71,6 +71,19 @@ More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
 
 </td></tr></table>
 
+### Products
+
+| | |
+|---|---|
+| [**LLMO Framework**](https://llmoframework.com) | The open framework for LLM Optimization — getting your content found and cited by AI search |
+| [**domain-pre-flight**](https://github.com/kenimo49/domain-pre-flight) | Pre-flight checks before registering a domain: name structure, TLD risk, content history, typosquats, go/no-go verdict |
+| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that preserves session state across context compaction |
+| [**book-babel**](https://github.com/kenimo49/book-babel) | Autonomous translation framework for technical books — structure-preserving, glossary-locked, LLM-native |
+| [**persona-hub**](https://github.com/kenimo49/persona-hub) | Lightweight persona evaluation SDK + thin persistence API for cross-service personality profiles |
+| [**wsl-claude-commander**](https://github.com/kenimo49/wsl-claude-commander) | Voice I/O and multi-window control for Claude Code on WSL2 |
+
+New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
+
 ### Books
 
 <table><tr>
@@ -86,10 +99,10 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 
 ### Research
 
-- When Free Executors Cost More: The Free-Executor Paradox in Iterative LLM Code-Repair Loops — [DOI:10.5281/zenodo.20978074](https://doi.org/10.5281/zenodo.20978074)
-- Excess Vocabulary in Japanese AI-Generated Text — [DOI:10.5281/zenodo.19233934](https://doi.org/10.5281/zenodo.19233934)
-- AI Text Slop: Stylistic Convergence Across Six LLMs — [DOI:10.5281/zenodo.19173035](https://doi.org/10.5281/zenodo.19173035)
-- AI Blue: Color Recognition Bias in Vision-Language Models — [DOI:10.5281/zenodo.19159702](https://doi.org/10.5281/zenodo.19159702)
+- When Free Executors Cost More: The Free-Executor Paradox in Iterative LLM Code-Repair Loops — [DOI:10.5281/zenodo.20978074](https://doi.org/10.5281/zenodo.20978074) · [code](https://github.com/kenimo49/free-executor-paradox)
+- Excess Vocabulary in Japanese AI-Generated Text — [DOI:10.5281/zenodo.19233934](https://doi.org/10.5281/zenodo.19233934) · [code](https://github.com/kenimo49/excess-vocabulary-ja)
+- AI Text Slop: Stylistic Convergence Across Six LLMs — [DOI:10.5281/zenodo.19173035](https://doi.org/10.5281/zenodo.19173035) · [code](https://github.com/kenimo49/ai-text-slop)
+- AI Blue: Color Recognition Bias in Vision-Language Models — [DOI:10.5281/zenodo.19159702](https://doi.org/10.5281/zenodo.19159702) · [code](https://github.com/kenimo49/ai-blue-color-bias)
 
 ---
 
