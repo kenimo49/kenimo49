@@ -110,5 +110,5 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-09 21:24 JST
+Last refreshed: 2026-07-09 22:05 JST
 <!-- updated ends --></sub>
