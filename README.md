@@ -16,6 +16,44 @@ Creator of the [LLMO Framework](https://llmoframework.com). I design harnesses t
   <b>400K+</b> article views (Qiita + Zenn)&nbsp;&nbsp;·&nbsp;&nbsp;<b>40+</b> books (Kindle + Zenn)&nbsp;&nbsp;·&nbsp;&nbsp;<b>4</b> research papers
 </p>
 
+<p align="center">
+  <b>Building AI-search-ready content? Start with the <a href="https://llmoframework.com">LLMO Framework</a>.</b>
+</p>
+
+### Products
+
+| | |
+|---|---|
+| [**LLMO Framework**](https://llmoframework.com) | The open methodology for LLM Optimization (AEO + GEO) — getting your content found and cited by AI search |
+| [**llmo-checker**](https://github.com/open-llmo/llmo-checker) | Lighthouse-style CLI that scores how AI-retrievable a URL is: llms.txt, JSON-LD, robots policy, semantic structure → 0–100 LLMO Score |
+| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that keeps sessions coherent across context compaction |
+
+More: [open-llmo](https://github.com/open-llmo) (research initiative) · [voice-clone](https://github.com/kenimo49/voice-clone) (3-sec voice cloning on Qwen3-TTS) · [speech-habit-lens](https://github.com/kenimo49/speech-habit-lens) (speech analyzer) · [domain-pre-flight](https://github.com/kenimo49/domain-pre-flight) (domain checks) · [persona-hub](https://github.com/kenimo49/persona-hub) (persona SDK)
+
+New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
+
+### Research
+
+- When Free Executors Cost More: The Free-Executor Paradox in Iterative LLM Code-Repair Loops — [DOI:10.5281/zenodo.20978074](https://doi.org/10.5281/zenodo.20978074) · [code](https://github.com/kenimo49/free-executor-paradox)
+- Excess Vocabulary in Japanese AI-Generated Text — [DOI:10.5281/zenodo.19233934](https://doi.org/10.5281/zenodo.19233934) · [code](https://github.com/kenimo49/excess-vocabulary-ja)
+- AI Text Slop: Stylistic Convergence Across Six LLMs — [DOI:10.5281/zenodo.19173035](https://doi.org/10.5281/zenodo.19173035) · [code](https://github.com/kenimo49/ai-text-slop)
+- AI Blue: Color Recognition Bias in Vision-Language Models — [DOI:10.5281/zenodo.19159702](https://doi.org/10.5281/zenodo.19159702) · [code](https://github.com/kenimo49/ai-blue-color-bias)
+
+### Books
+
+<table><tr>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/harness-engineering-guide/"><img height="190" src="assets/covers/harness-engineering-guide.jpg" alt="Harness Engineering" /><br /><sub><b>Harness&nbsp;Engineering</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/context-engineering/"><img height="190" src="assets/covers/context-engineering.jpg" alt="Context Engineering" /><br /><sub><b>Context&nbsp;Engineering</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/claude-code-mastery/"><img height="190" src="assets/covers/claude-code-mastery.jpg" alt="Practical Claude Code" /><br /><sub><b>Claude&nbsp;Code</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/llmo-ai-search-optimization/"><img height="190" src="assets/covers/llmo.jpg" alt="LLMO" /><br /><sub><b>LLMO</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/knowledge-graph-practical-guide/"><img height="190" src="assets/covers/knowledge-graph.jpg" alt="The Practical Knowledge Graph Guide" /><br /><sub><b>Knowledge&nbsp;Graph</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/voice-ai-300ms-ux/"><img height="190" src="assets/covers/voice-ai-300ms-ux.jpg" alt="The 300ms Threshold" /><br /><sub><b>300ms&nbsp;Threshold</b></sub></a></td>
+</tr></table>
+
+Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimoto.dev/#publications)
+
+### Latest writing
+
 <table><tr><td valign="top" width="33%">
 
 ### Blog (EN)
@@ -72,43 +110,8 @@ More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
 
 </td></tr></table>
 
-### Products
-
-| | |
-|---|---|
-| [**LLMO Framework**](https://llmoframework.com) | The open methodology for LLM Optimization (AEO + GEO) — getting your content found and cited by AI search |
-| [**open-llmo**](https://github.com/open-llmo) | The Open LLMO Research Initiative — specs, validators, and tooling for measuring how AI-retrievable a URL is |
-| [**llmo-checker**](https://github.com/open-llmo/llmo-checker) | Lighthouse-style CLI that scores how AI-retrievable a URL is: llms.txt, JSON-LD, robots policy, semantic structure → 0–100 LLMO Score |
-| [**voice-clone**](https://github.com/kenimo49/voice-clone) | Voice cloning on Qwen3-TTS — clone a voice from ~3 seconds of audio, read any text in it, multi-language |
-| [**speech-habit-lens**](https://github.com/kenimo49/speech-habit-lens) | 1-minute speech habit analyzer — AmiVoice ESAS (20 acoustic emotion parameters) × LLM, three-layer Markdown report |
-| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that keeps sessions coherent across context compaction |
-| [**domain-pre-flight**](https://github.com/kenimo49/domain-pre-flight) | Pre-flight checks before registering a domain: structure, history, typosquats, LLMO, trademark deeplinks in one command |
-| [**persona-hub**](https://github.com/kenimo49/persona-hub) | Persona hub: TypeScript SDK that scores quiz answers locally + optional FastAPI service for cross-service profiles |
-
-New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
-
-### Books
-
-<table><tr>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/harness-engineering-guide/"><img height="190" src="assets/covers/harness-engineering-guide.jpg" alt="Harness Engineering" /><br /><sub><b>Harness&nbsp;Engineering</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/context-engineering/"><img height="190" src="assets/covers/context-engineering.jpg" alt="Context Engineering" /><br /><sub><b>Context&nbsp;Engineering</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/claude-code-mastery/"><img height="190" src="assets/covers/claude-code-mastery.jpg" alt="Practical Claude Code" /><br /><sub><b>Claude&nbsp;Code</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/llmo-ai-search-optimization/"><img height="190" src="assets/covers/llmo.jpg" alt="LLMO" /><br /><sub><b>LLMO</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/knowledge-graph-practical-guide/"><img height="190" src="assets/covers/knowledge-graph.jpg" alt="The Practical Knowledge Graph Guide" /><br /><sub><b>Knowledge&nbsp;Graph</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/voice-ai-300ms-ux/"><img height="190" src="assets/covers/voice-ai-300ms-ux.jpg" alt="The 300ms Threshold" /><br /><sub><b>300ms&nbsp;Threshold</b></sub></a></td>
-</tr></table>
-
-Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimoto.dev/#publications)
-
-### Research
-
-- When Free Executors Cost More: The Free-Executor Paradox in Iterative LLM Code-Repair Loops — [DOI:10.5281/zenodo.20978074](https://doi.org/10.5281/zenodo.20978074) · [code](https://github.com/kenimo49/free-executor-paradox)
-- Excess Vocabulary in Japanese AI-Generated Text — [DOI:10.5281/zenodo.19233934](https://doi.org/10.5281/zenodo.19233934) · [code](https://github.com/kenimo49/excess-vocabulary-ja)
-- AI Text Slop: Stylistic Convergence Across Six LLMs — [DOI:10.5281/zenodo.19173035](https://doi.org/10.5281/zenodo.19173035) · [code](https://github.com/kenimo49/ai-text-slop)
-- AI Blue: Color Recognition Bias in Vision-Language Models — [DOI:10.5281/zenodo.19159702](https://doi.org/10.5281/zenodo.19159702) · [code](https://github.com/kenimo49/ai-blue-color-bias)
-
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-09 22:05 JST
+Last refreshed: 2026-07-09 22:35 JST
 <!-- updated ends --></sub>
