@@ -75,12 +75,14 @@ More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
 
 | | |
 |---|---|
-| [**LLMO Framework**](https://llmoframework.com) | The open framework for LLM Optimization — getting your content found and cited by AI search |
-| [**domain-pre-flight**](https://github.com/kenimo49/domain-pre-flight) | Pre-flight checks before registering a domain: name structure, TLD risk, content history, typosquats, go/no-go verdict |
-| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that preserves session state across context compaction |
-| [**book-babel**](https://github.com/kenimo49/book-babel) | Autonomous translation framework for technical books — structure-preserving, glossary-locked, LLM-native |
-| [**persona-hub**](https://github.com/kenimo49/persona-hub) | Lightweight persona evaluation SDK + thin persistence API for cross-service personality profiles |
-| [**wsl-claude-commander**](https://github.com/kenimo49/wsl-claude-commander) | Voice I/O and multi-window control for Claude Code on WSL2 |
+| [**LLMO Framework**](https://llmoframework.com) | The open methodology for LLM Optimization (AEO + GEO) — getting your content found and cited by AI search |
+| [**open-llmo**](https://github.com/open-llmo) | The Open LLMO Research Initiative — specs, validators, and tooling for measuring how AI-retrievable a URL is |
+| [**llmo-checker**](https://github.com/open-llmo/llmo-checker) | Lighthouse-style CLI that scores how AI-retrievable a URL is: llms.txt, JSON-LD, robots policy, semantic structure → 0–100 LLMO Score |
+| [**voice-clone**](https://github.com/kenimo49/voice-clone) | Voice cloning on Qwen3-TTS — clone a voice from ~3 seconds of audio, read any text in it, multi-language |
+| [**speech-habit-lens**](https://github.com/kenimo49/speech-habit-lens) | 1-minute speech habit analyzer — AmiVoice ESAS (20 acoustic emotion parameters) × LLM, three-layer Markdown report |
+| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that keeps sessions coherent across context compaction |
+| [**domain-pre-flight**](https://github.com/kenimo49/domain-pre-flight) | Pre-flight checks before registering a domain: structure, history, typosquats, LLMO, trademark deeplinks in one command |
+| [**persona-hub**](https://github.com/kenimo49/persona-hub) | Persona hub: TypeScript SDK that scores quiz answers locally + optional FastAPI service for cross-service profiles |
 
 New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
 
