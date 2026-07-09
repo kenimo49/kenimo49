@@ -89,12 +89,12 @@ New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/produ
 ### Books
 
 <table><tr>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/harness-engineering-guide/"><img src="https://kenimoto.dev/images/books/thumbs/harness-engineering-guide-en.webp" alt="Harness Engineering" /><br /><sub><b>Harness Engineering</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/context-engineering/"><img src="https://kenimoto.dev/images/books/thumbs/context-engineering-en.webp" alt="Context Engineering" /><br /><sub><b>Context Engineering</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/claude-code-mastery/"><img src="https://kenimoto.dev/images/books/thumbs/claude-code-mastery-en.webp" alt="Practical Claude Code" /><br /><sub><b>Practical Claude Code</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/llmo-ai-search-optimization/"><img src="https://kenimoto.dev/images/books/thumbs/llmo-en.webp" alt="LLMO" /><br /><sub><b>LLMO</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/knowledge-graph-practical-guide/"><img src="https://kenimoto.dev/images/books/thumbs/knowledge-graph-en.webp" alt="The Practical Knowledge Graph Guide" /><br /><sub><b>Knowledge Graph</b></sub></a></td>
-<td align="center" width="16%"><a href="https://kenimoto.dev/books/voice-ai-300ms-ux/"><img src="https://kenimoto.dev/images/books/thumbs/voice-ai-300ms-ux-en.webp" alt="The 300ms Threshold" /><br /><sub><b>The 300ms Threshold</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/harness-engineering-guide/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/harness-engineering-guide-en.webp" alt="Harness Engineering" /><br /><sub><b>Harness Engineering</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/context-engineering/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/context-engineering-en.webp" alt="Context Engineering" /><br /><sub><b>Context Engineering</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/claude-code-mastery/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/claude-code-mastery-en.webp" alt="Practical Claude Code" /><br /><sub><b>Practical Claude Code</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/llmo-ai-search-optimization/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/llmo-en.webp" alt="LLMO" /><br /><sub><b>LLMO</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/knowledge-graph-practical-guide/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/knowledge-graph-en.webp" alt="The Practical Knowledge Graph Guide" /><br /><sub><b>Knowledge Graph</b></sub></a></td>
+<td align="center" width="16%"><a href="https://kenimoto.dev/books/voice-ai-300ms-ux/"><img height="190" src="https://kenimoto.dev/images/books/thumbs/voice-ai-300ms-ux-en.webp" alt="The 300ms Threshold" /><br /><sub><b>The 300ms Threshold</b></sub></a></td>
 </tr></table>
 
 Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimoto.dev/#publications)
