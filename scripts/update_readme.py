@@ -25,26 +25,34 @@ def fetch(url):
         return res.read().decode("utf-8")
 
 
+def md_escape(title):
+    """Neutralize characters that could break link syntax or inject HTML."""
+    title = " ".join(title.split())  # collapse newlines/whitespace
+    for ch in "\\[]<>":
+        title = title.replace(ch, "\\" + ch)
+    return title
+
+
 def blog_entries():
     md = fetch("https://kenimoto.dev/ai/publications.md")
     m = re.search(r"## Blog Articles\s+### English\n(.*?)(?=\n###? )", md, re.S)
     if not m:
         raise RuntimeError("Blog Articles section not found in publications.md")
     entries = re.findall(r"- \[(.+?)\]\((\S+?)\) — (\d{4}-\d{2}-\d{2})", m.group(1))
-    return [f"[{t}]({u}) — {d}" for t, u, d in entries[:N_ITEMS]]
+    return [f"[{md_escape(t)}]({u}) — {d}" for t, u, d in entries[:N_ITEMS]]
 
 
 def zenn_entries():
     data = json.loads(fetch("https://zenn.dev/api/articles?username=kenimo49&count=5&order=latest"))
     return [
-        f"[{a['title']}](https://zenn.dev{a['path']}) — {a['published_at'][:10]}"
+        f"[{md_escape(a['title'])}](https://zenn.dev{a['path']}) — {a['published_at'][:10]}"
         for a in data["articles"][:N_ITEMS]
     ]
 
 
 def qiita_entries():
     data = json.loads(fetch("https://qiita.com/api/v2/users/kenimo49/items?per_page=5&page=1"))
-    return [f"[{a['title']}]({a['url']}) — {a['created_at'][:10]}" for a in data[:N_ITEMS]]
+    return [f"[{md_escape(a['title'])}]({a['url']}) — {a['created_at'][:10]}" for a in data[:N_ITEMS]]
 
 
 def replace_section(text, name, lines):
@@ -54,7 +62,8 @@ def replace_section(text, name, lines):
     )
     if not pattern.search(text):
         raise RuntimeError(f"markers for section '{name}' not found in README")
-    return pattern.sub(rf"\1\n{block}\n\2", text)
+    # lambda replacement: feed text must never be interpreted as regex backreferences
+    return pattern.sub(lambda m: f"{m.group(1)}\n{block}\n{m.group(2)}", text)
 
 
 def main():
