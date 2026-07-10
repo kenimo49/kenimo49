@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[有名エンジニア10人のプロフィールREADMEを解剖したら7系統に分かれた](https://zenn.dev/kenimo49/articles/github-profile-readme-10-engineers-7-types) — 2026-07-10
+
 [KGの粒度を1関数から1責務に変えたら、AIリファクタが刺さり始めた](https://zenn.dev/kenimo49/articles/kg-node-granularity-1function-to-1responsibility) — 2026-07-09
 
 [コンテキストの配置順序を5パターン試したら、意味順が最悪の1つだと分かった](https://zenn.dev/kenimo49/articles/context-placement-5-patterns-semantic-worst) — 2026-07-08
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [自作CLIをMCPサーバ化する2つの方法: subprocess版と直結版で940倍差が出た話](https://zenn.dev/kenimo49/articles/cli-mcp-server-subprocess-vs-library) — 2026-07-07
 
 [AIコードレビューの「見逃し」を3か月ログしたら、5つの盲点タイプに全部収まった](https://zenn.dev/kenimo49/articles/ai-code-review-blind-spots-3month-5-types) — 2026-07-06
-
-[AIに賛成された5回中4回は会議が早く終わった ― Groupthink加速の4兆候](https://zenn.dev/kenimo49/articles/groupthink-ai-meeting-4-signals) — 2026-07-05
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -99,6 +99,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
+
 [Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
 
 [1Passwordはチームメンバーに、パスワードを一度も渡していません](https://qiita.com/kenimo49/items/a8f63236077a06fd51bb) — 2026-07-05
@@ -106,8 +108,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [1Passwordは、あなたのマスターパスワードを一度も受信していません](https://qiita.com/kenimo49/items/d1151389d17e50ad5564) — 2026-07-05
 
 [無料のexecutorが一番高くついた話：Opus+ローカルQwenを40試行で測ったら全タスク最高額だった](https://qiita.com/kenimo49/items/def782cc182f1ad3a2ff) — 2026-06-28
-
-[GraphRAGが優秀なのは精度だけ:構築コストを1万件で実測した](https://qiita.com/kenimo49/items/9e6895ec69f456db488d) — 2026-06-22
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-10 07:18 JST
+Last refreshed: 2026-07-11 06:57 JST
 <!-- updated ends --></sub>
