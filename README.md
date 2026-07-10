@@ -36,6 +36,8 @@ More: [open-llmo](https://github.com/open-llmo) (research initiative) · [voice-
 
 New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
 
+<sub>If these save you time: [GitHub Sponsors](https://github.com/sponsors/kenimo49) · [Ko-fi](https://ko-fi.com/kenimo49)</sub>
+
 ### Research
 
 - When Free Executors Cost More: The Free-Executor Paradox in Iterative LLM Code-Repair Loops — [DOI:10.5281/zenodo.20978074](https://doi.org/10.5281/zenodo.20978074) · [code](https://github.com/kenimo49/free-executor-paradox)
