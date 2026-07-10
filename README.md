@@ -21,7 +21,7 @@ Creator of the [LLMO Framework](https://llmoframework.com). I design harnesses t
 </p>
 
 <p align="center">
-  <sub>If this work has saved you time, you can support its continued maintenance through <a href="https://github.com/sponsors/kenimo49">GitHub Sponsors</a>.</sub>
+  <sub>If this work has saved you time, you can support its continued maintenance through <a href="https://github.com/sponsors/kenimo49">GitHub Sponsors</a> or <a href="https://ko-fi.com/kenimo49">Ko-fi</a>.</sub>
 </p>
 
 ### Products
@@ -35,8 +35,6 @@ Creator of the [LLMO Framework](https://llmoframework.com). I design harnesses t
 More: [open-llmo](https://github.com/open-llmo) (research initiative) · [voice-clone](https://github.com/kenimo49/voice-clone) (3-sec voice cloning on Qwen3-TTS) · [speech-habit-lens](https://github.com/kenimo49/speech-habit-lens) (speech analyzer) · [domain-pre-flight](https://github.com/kenimo49/domain-pre-flight) (domain checks) · [persona-hub](https://github.com/kenimo49/persona-hub) (persona SDK)
 
 New products ship weekly: [kenimoto.dev → Products](https://kenimoto.dev/products/)
-
-<sub>If these save you time: [GitHub Sponsors](https://github.com/sponsors/kenimo49) · [Ko-fi](https://ko-fi.com/kenimo49)</sub>
 
 ### Research
 
