@@ -20,6 +20,10 @@ Creator of the [LLMO Framework](https://llmoframework.com). I design harnesses t
   <b>Building AI-search-ready content? Start with the <a href="https://llmoframework.com">LLMO Framework</a>.</b>
 </p>
 
+<p align="center">
+  <sub>If this work has saved you time, you can support its continued maintenance through <a href="https://github.com/sponsors/kenimo49">GitHub Sponsors</a>.</sub>
+</p>
+
 ### Products
 
 | | |
