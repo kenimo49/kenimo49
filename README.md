@@ -63,15 +63,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Ship a product, get a support button for free: an edge-injected overlay on Cloudflare Workers](https://kenimoto.dev/blog/edge-injected-support-overlay-cloudflare-workers/) — 2026-07-11
+
+[FUNDING.yml alone won't show a Sponsor button: notes from auditing 42 repos](https://kenimoto.dev/blog/funding-yml-sponsor-button-42-repo-audit/) — 2026-07-11
+
+[historymap: one YAML file becomes a corporate-style product-history timeline](https://kenimoto.dev/blog/historymap-yaml-corporate-timeline-oss/) — 2026-07-11
+
 [I Trusted Claude Code and Shipped 40% Slower: 3 Places the Speed Actually Died](https://kenimoto.dev/blog/claude-code-40-slower-3-places/) — 2026-07-06
 
 [The 7-Step Test That Told Me When to Switch From RAG to GraphRAG](https://kenimoto.dev/blog/graphrag-vs-rag-7-step-switch-test/) — 2026-07-04
-
-[I Ran Claude Code, Cursor, and Codex Side by Side for 31 Days. Here Is the Real Monthly Bill.](https://kenimoto.dev/blog/claude-code-cursor-codex-31-days-real-monthly-bill/) — 2026-07-03
-
-[Claude Code vs Cursor: 6 Tasks, Measured Latency, and Which One I Uninstalled](https://kenimoto.dev/blog/claude-code-vs-cursor-6-tasks-uninstalled/) — 2026-07-02
-
-[Parallel Agents Went Negative at 340k Tokens: The Real Breakeven for Claude+Cursor+Codex](https://kenimoto.dev/blog/parallel-agents-340k-tokens-breakeven-claude-cursor-codex/) — 2026-07-01
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[観測を1本のTrace IDに束ねたら、5層のうち3層がノイズだと分かった](https://zenn.dev/kenimo49/articles/observability-full-stack-trace-id-3-noise-layers) — 2026-07-11
+
 [有名エンジニア10人のプロフィールREADMEを解剖したら7系統に分かれた](https://zenn.dev/kenimo49/articles/github-profile-readme-10-engineers-7-types) — 2026-07-10
 
 [KGの粒度を1関数から1責務に変えたら、AIリファクタが刺さり始めた](https://zenn.dev/kenimo49/articles/kg-node-granularity-1function-to-1responsibility) — 2026-07-09
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [コンテキストの配置順序を5パターン試したら、意味順が最悪の1つだと分かった](https://zenn.dev/kenimo49/articles/context-placement-5-patterns-semantic-worst) — 2026-07-08
 
 [自作CLIをMCPサーバ化する2つの方法: subprocess版と直結版で940倍差が出た話](https://zenn.dev/kenimo49/articles/cli-mcp-server-subprocess-vs-library) — 2026-07-07
-
-[AIコードレビューの「見逃し」を3か月ログしたら、5つの盲点タイプに全部収まった](https://zenn.dev/kenimo49/articles/ai-code-review-blind-spots-3month-5-types) — 2026-07-06
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -99,6 +99,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[「どのベクトルDBがいい？」に「場合による」で逃げないRAGを作った](https://qiita.com/kenimo49/items/c5c64b836eabc5828948) — 2026-07-11
+
 [uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
 
 [Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
@@ -106,8 +108,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [1Passwordはチームメンバーに、パスワードを一度も渡していません](https://qiita.com/kenimo49/items/a8f63236077a06fd51bb) — 2026-07-05
 
 [1Passwordは、あなたのマスターパスワードを一度も受信していません](https://qiita.com/kenimo49/items/d1151389d17e50ad5564) — 2026-07-05
-
-[無料のexecutorが一番高くついた話：Opus+ローカルQwenを40試行で測ったら全タスク最高額だった](https://qiita.com/kenimo49/items/def782cc182f1ad3a2ff) — 2026-06-28
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-11 06:57 JST
+Last refreshed: 2026-07-12 06:43 JST
 <!-- updated ends --></sub>
