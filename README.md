@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[The Skill Eval Repo I Didn't Build: 107 SKILL.md Files, 6 Checks, 21 False Positives](https://kenimoto.dev/blog/skill-eval-repo-not-built-107-lint/) — 2026-07-12
+
 [Ship a product, get a support button for free: an edge-injected overlay on Cloudflare Workers](https://kenimoto.dev/blog/edge-injected-support-overlay-cloudflare-workers/) — 2026-07-11
 
 [FUNDING.yml alone won't show a Sponsor button: notes from auditing 42 repos](https://kenimoto.dev/blog/funding-yml-sponsor-button-42-repo-audit/) — 2026-07-11
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [historymap: one YAML file becomes a corporate-style product-history timeline](https://kenimoto.dev/blog/historymap-yaml-corporate-timeline-oss/) — 2026-07-11
 
 [I Trusted Claude Code and Shipped 40% Slower: 3 Places the Speed Actually Died](https://kenimoto.dev/blog/claude-code-40-slower-3-places/) — 2026-07-06
-
-[The 7-Step Test That Told Me When to Switch From RAG to GraphRAG](https://kenimoto.dev/blog/graphrag-vs-rag-7-step-switch-test/) — 2026-07-04
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[自作OSSを10観点で採点したら、直してはいけないFが2つ見つかった](https://zenn.dev/kenimo49/articles/repo-health-10-dimensions-two-fs) — 2026-07-12
+
 [観測を1本のTrace IDに束ねたら、5層のうち3層がノイズだと分かった](https://zenn.dev/kenimo49/articles/observability-full-stack-trace-id-3-noise-layers) — 2026-07-11
 
 [有名エンジニア10人のプロフィールREADMEを解剖したら7系統に分かれた](https://zenn.dev/kenimo49/articles/github-profile-readme-10-engineers-7-types) — 2026-07-10
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [KGの粒度を1関数から1責務に変えたら、AIリファクタが刺さり始めた](https://zenn.dev/kenimo49/articles/kg-node-granularity-1function-to-1responsibility) — 2026-07-09
 
 [コンテキストの配置順序を5パターン試したら、意味順が最悪の1つだと分かった](https://zenn.dev/kenimo49/articles/context-placement-5-patterns-semantic-worst) — 2026-07-08
-
-[自作CLIをMCPサーバ化する2つの方法: subprocess版と直結版で940倍差が出た話](https://zenn.dev/kenimo49/articles/cli-mcp-server-subprocess-vs-library) — 2026-07-07
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-12 06:43 JST
+Last refreshed: 2026-07-13 06:43 JST
 <!-- updated ends --></sub>
