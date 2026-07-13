@@ -63,15 +63,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Article Schema Alone Didn't Make AI Recognize Me as the Author. The Entity Wiring That Did (in 4 JSON-LD Fields).](https://kenimoto.dev/blog/article-schema-alone-author-entity-4-json-ld-fields/) — 2026-07-13
+
+[I Forked OpenCut classic to Put an MCP Server on It — Four Traps I Hit Before Claude Could Drive the Video Editor](https://kenimoto.dev/blog/opencut-classic-mcp-4-traps-editor-core-fork/) — 2026-07-13
+
+[Pre-flight your MCP: four layers to grade a server before you publish it](https://kenimoto.dev/blog/pre-flight-your-mcp-4-layers-scorecard/) — 2026-07-13
+
 [The Skill Eval Repo I Didn't Build: 107 SKILL.md Files, 6 Checks, 21 False Positives](https://kenimoto.dev/blog/skill-eval-repo-not-built-107-lint/) — 2026-07-12
 
 [Ship a product, get a support button for free: an edge-injected overlay on Cloudflare Workers](https://kenimoto.dev/blog/edge-injected-support-overlay-cloudflare-workers/) — 2026-07-11
-
-[FUNDING.yml alone won't show a Sponsor button: notes from auditing 42 repos](https://kenimoto.dev/blog/funding-yml-sponsor-button-42-repo-audit/) — 2026-07-11
-
-[historymap: one YAML file becomes a corporate-style product-history timeline](https://kenimoto.dev/blog/historymap-yaml-corporate-timeline-oss/) — 2026-07-11
-
-[I Trusted Claude Code and Shipped 40% Slower: 3 Places the Speed Actually Died](https://kenimoto.dev/blog/claude-code-40-slower-3-places/) — 2026-07-06
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[OpenCut classic を fork して MCP を入れた — Claude が動画編集する4つの罠](https://zenn.dev/kenimo49/articles/opencut-classic-mcp-4-traps) — 2026-07-13
+
 [自作OSSを10観点で採点したら、直してはいけないFが2つ見つかった](https://zenn.dev/kenimo49/articles/repo-health-10-dimensions-two-fs) — 2026-07-12
 
 [観測を1本のTrace IDに束ねたら、5層のうち3層がノイズだと分かった](https://zenn.dev/kenimo49/articles/observability-full-stack-trace-id-3-noise-layers) — 2026-07-11
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [有名エンジニア10人のプロフィールREADMEを解剖したら7系統に分かれた](https://zenn.dev/kenimo49/articles/github-profile-readme-10-engineers-7-types) — 2026-07-10
 
 [KGの粒度を1関数から1責務に変えたら、AIリファクタが刺さり始めた](https://zenn.dev/kenimo49/articles/kg-node-granularity-1function-to-1responsibility) — 2026-07-09
-
-[コンテキストの配置順序を5パターン試したら、意味順が最悪の1つだと分かった](https://zenn.dev/kenimo49/articles/context-placement-5-patterns-semantic-worst) — 2026-07-08
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -99,6 +99,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[YAMLを書くと企業サイト風の製品ヒストリー年表になるOSSを作った](https://qiita.com/kenimo49/items/159f75910f900f3e71f1) — 2026-07-11
+
 [「どのベクトルDBがいい？」に「場合による」で逃げないRAGを作った](https://qiita.com/kenimo49/items/c5c64b836eabc5828948) — 2026-07-11
 
 [uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
@@ -106,8 +108,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
 
 [1Passwordはチームメンバーに、パスワードを一度も渡していません](https://qiita.com/kenimo49/items/a8f63236077a06fd51bb) — 2026-07-05
-
-[1Passwordは、あなたのマスターパスワードを一度も受信していません](https://qiita.com/kenimo49/items/d1151389d17e50ad5564) — 2026-07-05
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-13 06:43 JST
+Last refreshed: 2026-07-14 06:52 JST
 <!-- updated ends --></sub>
