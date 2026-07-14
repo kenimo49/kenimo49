@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[OpenAI Codex AGENTS.md: 1M Lines Shipped, 3 Harness Lessons](https://kenimoto.dev/blog/openai-codex-agents-md-1m-lines-3-harness-lessons/) — 2026-07-14
+
 [Article Schema Alone Didn't Make AI Recognize Me as the Author. The Entity Wiring That Did (in 4 JSON-LD Fields).](https://kenimoto.dev/blog/article-schema-alone-author-entity-4-json-ld-fields/) — 2026-07-13
 
 [I Forked OpenCut classic to Put an MCP Server on It — Four Traps I Hit Before Claude Could Drive the Video Editor](https://kenimoto.dev/blog/opencut-classic-mcp-4-traps-editor-core-fork/) — 2026-07-13
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Pre-flight your MCP: four layers to grade a server before you publish it](https://kenimoto.dev/blog/pre-flight-your-mcp-4-layers-scorecard/) — 2026-07-13
 
 [The Skill Eval Repo I Didn't Build: 107 SKILL.md Files, 6 Checks, 21 False Positives](https://kenimoto.dev/blog/skill-eval-repo-not-built-107-lint/) — 2026-07-12
-
-[Ship a product, get a support button for free: an edge-injected overlay on Cloudflare Workers](https://kenimoto.dev/blog/edge-injected-support-overlay-cloudflare-workers/) — 2026-07-11
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[Chaos 3ツールを3か月使い分けたら「本番向き」の意味が3つに割れた](https://zenn.dev/kenimo49/articles/chaos-3-tools-3month-litmus-mesh-fis) — 2026-07-14
+
 [OpenCut classic を fork して MCP を入れた — Claude が動画編集する4つの罠](https://zenn.dev/kenimo49/articles/opencut-classic-mcp-4-traps) — 2026-07-13
 
 [自作OSSを10観点で採点したら、直してはいけないFが2つ見つかった](https://zenn.dev/kenimo49/articles/repo-health-10-dimensions-two-fs) — 2026-07-12
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [観測を1本のTrace IDに束ねたら、5層のうち3層がノイズだと分かった](https://zenn.dev/kenimo49/articles/observability-full-stack-trace-id-3-noise-layers) — 2026-07-11
 
 [有名エンジニア10人のプロフィールREADMEを解剖したら7系統に分かれた](https://zenn.dev/kenimo49/articles/github-profile-readme-10-engineers-7-types) — 2026-07-10
-
-[KGの粒度を1関数から1責務に変えたら、AIリファクタが刺さり始めた](https://zenn.dev/kenimo49/articles/kg-node-granularity-1function-to-1responsibility) — 2026-07-09
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -107,7 +107,7 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
 
-[1Passwordはチームメンバーに、パスワードを一度も渡していません](https://qiita.com/kenimo49/items/a8f63236077a06fd51bb) — 2026-07-05
+[.envは.gitignoreに書いても漏れる:私が実演した3経路](https://qiita.com/kenimo49/items/be06d0fae54e34733124) — 2026-07-06
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-14 06:52 JST
+Last refreshed: 2026-07-15 06:54 JST
 <!-- updated ends --></sub>
