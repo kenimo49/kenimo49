@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[音声AIのプライバシーを「暗号化」ではなく「音響設計」で解いた3か月](https://zenn.dev/kenimo49/articles/voice-ai-privacy-44dba-acoustic-design) — 2026-07-16
+
 [マルチエージェントの決断を412→38に絞ったら、15倍トークンが説明できた](https://zenn.dev/kenimo49/articles/multi-agent-decisions-412-38-15x-tokens) — 2026-07-15
 
 [Chaos 3ツールを3か月使い分けたら「本番向き」の意味が3つに割れた](https://zenn.dev/kenimo49/articles/chaos-3-tools-3month-litmus-mesh-fis) — 2026-07-14
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [OpenCut classic を fork して MCP を入れた — Claude が動画編集する4つの罠](https://zenn.dev/kenimo49/articles/opencut-classic-mcp-4-traps) — 2026-07-13
 
 [自作OSSを10観点で採点したら、直してはいけないFが2つ見つかった](https://zenn.dev/kenimo49/articles/repo-health-10-dimensions-two-fs) — 2026-07-12
-
-[観測を1本のTrace IDに束ねたら、5層のうち3層がノイズだと分かった](https://zenn.dev/kenimo49/articles/observability-full-stack-trace-id-3-noise-layers) — 2026-07-11
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -99,6 +99,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[1Password値上げで乗り換えました:SOPS+ageで.envを複数PC共有する封筒モデル](https://qiita.com/kenimo49/items/4b0e2a555820aa0ce0bd) — 2026-07-16
+
 [YAMLを書くと企業サイト風の製品ヒストリー年表になるOSSを作った](https://qiita.com/kenimo49/items/159f75910f900f3e71f1) — 2026-07-11
 
 [「どのベクトルDBがいい？」に「場合による」で逃げないRAGを作った](https://qiita.com/kenimo49/items/c5c64b836eabc5828948) — 2026-07-11
@@ -106,8 +108,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
 
 [Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
-
-[.envは.gitignoreに書いても漏れる:私が実演した3経路](https://qiita.com/kenimo49/items/be06d0fae54e34733124) — 2026-07-06
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-16 06:55 JST
+Last refreshed: 2026-07-17 07:00 JST
 <!-- updated ends --></sub>
