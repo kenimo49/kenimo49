@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[skill評価リポジトリを作ろうとして、作らなかった話（107本lintの実測つき）](https://zenn.dev/kenimo49/articles/skill-eval-not-built-static-lint-107) — 2026-07-17
+
 [音声AIのプライバシーを「暗号化」ではなく「音響設計」で解いた3か月](https://zenn.dev/kenimo49/articles/voice-ai-privacy-44dba-acoustic-design) — 2026-07-16
 
 [マルチエージェントの決断を412→38に絞ったら、15倍トークンが説明できた](https://zenn.dev/kenimo49/articles/multi-agent-decisions-412-38-15x-tokens) — 2026-07-15
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [Chaos 3ツールを3か月使い分けたら「本番向き」の意味が3つに割れた](https://zenn.dev/kenimo49/articles/chaos-3-tools-3month-litmus-mesh-fis) — 2026-07-14
 
 [OpenCut classic を fork して MCP を入れた — Claude が動画編集する4つの罠](https://zenn.dev/kenimo49/articles/opencut-classic-mcp-4-traps) — 2026-07-13
-
-[自作OSSを10観点で採点したら、直してはいけないFが2つ見つかった](https://zenn.dev/kenimo49/articles/repo-health-10-dimensions-two-fs) — 2026-07-12
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-17 07:00 JST
+Last refreshed: 2026-07-18 06:48 JST
 <!-- updated ends --></sub>
