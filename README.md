@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[llms.txtとJSON-LDを両方入れたのに引用されない ── 3つのボトルネック](https://zenn.dev/kenimo49/articles/llms-txt-json-ld-3-citation-bottlenecks) — 2026-07-19
+
 [AIに丸投げしたデバッグ100件を分類したら、逆にバグを深くする5パターンが見えた](https://zenn.dev/kenimo49/articles/ai-debug-100-cases-5-deepening-patterns) — 2026-07-18
 
 [skill評価リポジトリを作ろうとして、作らなかった話（107本lintの実測つき）](https://zenn.dev/kenimo49/articles/skill-eval-not-built-static-lint-107) — 2026-07-17
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [音声AIのプライバシーを「暗号化」ではなく「音響設計」で解いた3か月](https://zenn.dev/kenimo49/articles/voice-ai-privacy-44dba-acoustic-design) — 2026-07-16
 
 [マルチエージェントの決断を412→38に絞ったら、15倍トークンが説明できた](https://zenn.dev/kenimo49/articles/multi-agent-decisions-412-38-15x-tokens) — 2026-07-15
-
-[Chaos 3ツールを3か月使い分けたら「本番向き」の意味が3つに割れた](https://zenn.dev/kenimo49/articles/chaos-3-tools-3month-litmus-mesh-fis) — 2026-07-14
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-19 06:45 JST
+Last refreshed: 2026-07-20 06:47 JST
 <!-- updated ends --></sub>
