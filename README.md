@@ -99,6 +99,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[月3万円のMEO代行を13作業に分解したら、AI併用で月1.7時間だった](https://qiita.com/kenimo49/items/3726b0806d8e023cc1fb) — 2026-07-20
+
 [1Password値上げで乗り換えました:SOPS+ageで.envを複数PC共有する封筒モデル](https://qiita.com/kenimo49/items/4b0e2a555820aa0ce0bd) — 2026-07-16
 
 [YAMLを書くと企業サイト風の製品ヒストリー年表になるOSSを作った](https://qiita.com/kenimo49/items/159f75910f900f3e71f1) — 2026-07-11
@@ -106,8 +108,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [「どのベクトルDBがいい？」に「場合による」で逃げないRAGを作った](https://qiita.com/kenimo49/items/c5c64b836eabc5828948) — 2026-07-11
 
 [uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
-
-[Claude Codeに『京都の雪夜』と頼んだら、家のPCで絵が出た話](https://qiita.com/kenimo49/items/25f26f4c2c3eb836f2aa) — 2026-07-06
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-20 06:47 JST
+Last refreshed: 2026-07-21 06:57 JST
 <!-- updated ends --></sub>
