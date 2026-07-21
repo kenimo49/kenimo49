@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[Berkeley製のpixelshotがWikipediaを1枚しか撮らなかったので、PinchTabで代替案を作った](https://zenn.dev/kenimo49/articles/pixelshot-vs-pinchtab-scroll-wikipedia-fail) — 2026-07-22
+
 [llms.txtとJSON-LDを両方入れたのに引用されない ── 3つのボトルネック](https://zenn.dev/kenimo49/articles/llms-txt-json-ld-3-citation-bottlenecks) — 2026-07-19
 
 [AIに丸投げしたデバッグ100件を分類したら、逆にバグを深くする5パターンが見えた](https://zenn.dev/kenimo49/articles/ai-debug-100-cases-5-deepening-patterns) — 2026-07-18
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [skill評価リポジトリを作ろうとして、作らなかった話（107本lintの実測つき）](https://zenn.dev/kenimo49/articles/skill-eval-not-built-static-lint-107) — 2026-07-17
 
 [音声AIのプライバシーを「暗号化」ではなく「音響設計」で解いた3か月](https://zenn.dev/kenimo49/articles/voice-ai-privacy-44dba-acoustic-design) — 2026-07-16
-
-[マルチエージェントの決断を412→38に絞ったら、15倍トークンが説明できた](https://zenn.dev/kenimo49/articles/multi-agent-decisions-412-38-15x-tokens) — 2026-07-15
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -103,11 +103,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [1Password値上げで乗り換えました:SOPS+ageで.envを複数PC共有する封筒モデル](https://qiita.com/kenimo49/items/4b0e2a555820aa0ce0bd) — 2026-07-16
 
+[あなたのパスキーは、フィッシングサイトでは押しても反応しません](https://qiita.com/kenimo49/items/e63c12c40f5750aeba65) — 2026-07-13
+
 [YAMLを書くと企業サイト風の製品ヒストリー年表になるOSSを作った](https://qiita.com/kenimo49/items/159f75910f900f3e71f1) — 2026-07-11
 
 [「どのベクトルDBがいい？」に「場合による」で逃げないRAGを作った](https://qiita.com/kenimo49/items/c5c64b836eabc5828948) — 2026-07-11
-
-[uuidv7()とUUIDv4の差は何行から？PostgreSQL 18で実測](https://qiita.com/kenimo49/items/917d86d077dc1f2f1194) — 2026-07-10
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-21 06:57 JST
+Last refreshed: 2026-07-22 07:00 JST
 <!-- updated ends --></sub>
