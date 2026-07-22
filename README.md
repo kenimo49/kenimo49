@@ -63,15 +63,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[PinchTab Only Shoots One Viewport: Teaching a 9.4k-Star Browser Bridge to Capture Full Pages](https://kenimoto.dev/blog/pinchtab-scroll-shot-full-page-screenshots/) — 2026-07-22
+
+[pixelshot Read One Tile of an 18,609px Wikipedia Page: the Lazy-Load Trap Under Visual RAG](https://kenimoto.dev/blog/pixelshot-1-tile-wikipedia-lazy-load-trap/) — 2026-07-22
+
 [The Machine Accent Travels: AI Text Is Rhythmically Monotone in 70/70 Cells Across 3 Languages](https://kenimoto.dev/blog/machine-accent-3-languages-70-70-cells/) — 2026-07-18
 
 [OpenAI Codex AGENTS.md: 1M Lines Shipped, 3 Harness Lessons](https://kenimoto.dev/blog/openai-codex-agents-md-1m-lines-3-harness-lessons/) — 2026-07-14
 
 [Article Schema Alone Didn't Make AI Recognize Me as the Author. The Entity Wiring That Did (in 4 JSON-LD Fields).](https://kenimoto.dev/blog/article-schema-alone-author-entity-4-json-ld-fields/) — 2026-07-13
-
-[I Forked OpenCut classic to Put an MCP Server on It — Four Traps I Hit Before Claude Could Drive the Video Editor](https://kenimoto.dev/blog/opencut-classic-mcp-4-traps-editor-core-fork/) — 2026-07-13
-
-[Pre-flight your MCP: four layers to grade a server before you publish it](https://kenimoto.dev/blog/pre-flight-your-mcp-4-layers-scorecard/) — 2026-07-13
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-22 07:00 JST
+Last refreshed: 2026-07-23 07:01 JST
 <!-- updated ends --></sub>
