@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[マルチエージェントを3ツール併用したら、決断疲労が起きたのは私のほうだった](https://zenn.dev/kenimo49/articles/multi-agent-3tools-decision-fatigue-human) — 2026-07-24
+
 [AIレビューのブロックを100PRで測ったら、70PRはno-verifyで通り抜けていた](https://zenn.dev/kenimo49/articles/ai-review-block-100pr-70-noverify-3month) — 2026-07-23
 
 [Berkeley製のpixelshotがWikipediaを1枚しか撮らなかったので、PinchTabで代替案を作った](https://zenn.dev/kenimo49/articles/pixelshot-vs-pinchtab-scroll-wikipedia-fail) — 2026-07-22
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [llms.txtとJSON-LDを両方入れたのに引用されない ── 3つのボトルネック](https://zenn.dev/kenimo49/articles/llms-txt-json-ld-3-citation-bottlenecks) — 2026-07-19
 
 [AIに丸投げしたデバッグ100件を分類したら、逆にバグを深くする5パターンが見えた](https://zenn.dev/kenimo49/articles/ai-debug-100-cases-5-deepening-patterns) — 2026-07-18
-
-[skill評価リポジトリを作ろうとして、作らなかった話（107本lintの実測つき）](https://zenn.dev/kenimo49/articles/skill-eval-not-built-static-lint-107) — 2026-07-17
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -103,11 +103,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [1Password値上げで乗り換えました:SOPS+ageで.envを複数PC共有する封筒モデル](https://qiita.com/kenimo49/items/4b0e2a555820aa0ce0bd) — 2026-07-16
 
+[音声AIの遅延はTTSではなくLLMが7割 — Whisper/LLM/TTSの3分割で実測](https://qiita.com/kenimo49/items/a465ba365538f727cb93) — 2026-07-13
+
 [ローカルLLMの体感速度はtok/sでは測れない — RTX 4070でTTFT実測](https://qiita.com/kenimo49/items/24b81ddb27a7d71f7904) — 2026-07-13
 
 [あなたのパスキーは、フィッシングサイトでは押しても反応しません](https://qiita.com/kenimo49/items/e63c12c40f5750aeba65) — 2026-07-13
-
-[YAMLを書くと企業サイト風の製品ヒストリー年表になるOSSを作った](https://qiita.com/kenimo49/items/159f75910f900f3e71f1) — 2026-07-11
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-24 07:01 JST
+Last refreshed: 2026-07-25 07:01 JST
 <!-- updated ends --></sub>
