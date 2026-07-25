@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[ハーネスを4層に分けたら、どの層が壊れても他の3層で救えるようになった](https://zenn.dev/kenimo49/articles/harness-4layer-fault-isolation-responsibility) — 2026-07-25
+
 [マルチエージェントを3ツール併用したら、決断疲労が起きたのは私のほうだった](https://zenn.dev/kenimo49/articles/multi-agent-3tools-decision-fatigue-human) — 2026-07-24
 
 [AIレビューのブロックを100PRで測ったら、70PRはno-verifyで通り抜けていた](https://zenn.dev/kenimo49/articles/ai-review-block-100pr-70-noverify-3month) — 2026-07-23
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [Berkeley製のpixelshotがWikipediaを1枚しか撮らなかったので、PinchTabで代替案を作った](https://zenn.dev/kenimo49/articles/pixelshot-vs-pinchtab-scroll-wikipedia-fail) — 2026-07-22
 
 [llms.txtとJSON-LDを両方入れたのに引用されない ── 3つのボトルネック](https://zenn.dev/kenimo49/articles/llms-txt-json-ld-3-citation-bottlenecks) — 2026-07-19
-
-[AIに丸投げしたデバッグ100件を分類したら、逆にバグを深くする5パターンが見えた](https://zenn.dev/kenimo49/articles/ai-debug-100-cases-5-deepening-patterns) — 2026-07-18
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-25 07:01 JST
+Last refreshed: 2026-07-26 06:51 JST
 <!-- updated ends --></sub>
