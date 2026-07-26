@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Karpathy Nanochat: $43K GPT-2 Training in 8,000 Lines (2026)](https://kenimoto.dev/blog/karpathy-nanochat-43k-gpt2-8000-lines/) — 2026-07-26
+
 [PinchTab Only Shoots One Viewport: Teaching a 9.4k-Star Browser Bridge to Capture Full Pages](https://kenimoto.dev/blog/pinchtab-scroll-shot-full-page-screenshots/) — 2026-07-22
 
 [pixelshot Read One Tile of an 18,609px Wikipedia Page: the Lazy-Load Trap Under Visual RAG](https://kenimoto.dev/blog/pixelshot-1-tile-wikipedia-lazy-load-trap/) — 2026-07-22
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [The Machine Accent Travels: AI Text Is Rhythmically Monotone in 70/70 Cells Across 3 Languages](https://kenimoto.dev/blog/machine-accent-3-languages-70-70-cells/) — 2026-07-18
 
 [OpenAI Codex AGENTS.md: 1M Lines Shipped, 3 Harness Lessons](https://kenimoto.dev/blog/openai-codex-agents-md-1m-lines-3-harness-lessons/) — 2026-07-14
-
-[Article Schema Alone Didn't Make AI Recognize Me as the Author. The Entity Wiring That Did (in 4 JSON-LD Fields).](https://kenimoto.dev/blog/article-schema-alone-author-entity-4-json-ld-fields/) — 2026-07-13
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[KGにドキュメント3種類を突っ込んだら、AIが読む優先順位が自動で決まった](https://zenn.dev/kenimo49/articles/kg-3-doctypes-ai-reading-priority-auto) — 2026-07-26
+
 [ハーネスを4層に分けたら、どの層が壊れても他の3層で救えるようになった](https://zenn.dev/kenimo49/articles/harness-4layer-fault-isolation-responsibility) — 2026-07-25
 
 [マルチエージェントを3ツール併用したら、決断疲労が起きたのは私のほうだった](https://zenn.dev/kenimo49/articles/multi-agent-3tools-decision-fatigue-human) — 2026-07-24
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [AIレビューのブロックを100PRで測ったら、70PRはno-verifyで通り抜けていた](https://zenn.dev/kenimo49/articles/ai-review-block-100pr-70-noverify-3month) — 2026-07-23
 
 [Berkeley製のpixelshotがWikipediaを1枚しか撮らなかったので、PinchTabで代替案を作った](https://zenn.dev/kenimo49/articles/pixelshot-vs-pinchtab-scroll-wikipedia-fail) — 2026-07-22
-
-[llms.txtとJSON-LDを両方入れたのに引用されない ── 3つのボトルネック](https://zenn.dev/kenimo49/articles/llms-txt-json-ld-3-citation-bottlenecks) — 2026-07-19
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-26 06:51 JST
+Last refreshed: 2026-07-27 06:55 JST
 <!-- updated ends --></sub>
