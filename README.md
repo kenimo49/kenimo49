@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[Self-Evolvingハーネスが3ヶ月で12本の提案を出したら、承認したのは2本だった](https://zenn.dev/kenimo49/articles/self-evolving-harness-12-proposals-2-approved) — 2026-07-27
+
 [KGにドキュメント3種類を突っ込んだら、AIが読む優先順位が自動で決まった](https://zenn.dev/kenimo49/articles/kg-3-doctypes-ai-reading-priority-auto) — 2026-07-26
 
 [ハーネスを4層に分けたら、どの層が壊れても他の3層で救えるようになった](https://zenn.dev/kenimo49/articles/harness-4layer-fault-isolation-responsibility) — 2026-07-25
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [マルチエージェントを3ツール併用したら、決断疲労が起きたのは私のほうだった](https://zenn.dev/kenimo49/articles/multi-agent-3tools-decision-fatigue-human) — 2026-07-24
 
 [AIレビューのブロックを100PRで測ったら、70PRはno-verifyで通り抜けていた](https://zenn.dev/kenimo49/articles/ai-review-block-100pr-70-noverify-3month) — 2026-07-23
-
-[Berkeley製のpixelshotがWikipediaを1枚しか撮らなかったので、PinchTabで代替案を作った](https://zenn.dev/kenimo49/articles/pixelshot-vs-pinchtab-scroll-wikipedia-fail) — 2026-07-22
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-27 06:55 JST
+Last refreshed: 2026-07-28 07:02 JST
 <!-- updated ends --></sub>
