@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[llmoframework Audit on 30 Dev Blogs: 4 of Top 5 Fail Same 3 Checks](https://kenimoto.dev/blog/llmoframework-audit-30-dev-blogs-top-5-fail-same-3-checks/) — 2026-07-29
+
 [Cursor Composer vs Claude Code: 400k-Token Repo Benchmarked](https://kenimoto.dev/blog/cursor-composer-vs-claude-code-400k-token-repo/) — 2026-07-28
 
 [Karpathy Nanochat: $43K GPT-2 Training in 8,000 Lines (2026)](https://kenimoto.dev/blog/karpathy-nanochat-43k-gpt2-8000-lines/) — 2026-07-26
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [PinchTab Only Shoots One Viewport: Teaching a 9.4k-Star Browser Bridge to Capture Full Pages](https://kenimoto.dev/blog/pinchtab-scroll-shot-full-page-screenshots/) — 2026-07-22
 
 [pixelshot Read One Tile of an 18,609px Wikipedia Page: the Lazy-Load Trap Under Visual RAG](https://kenimoto.dev/blog/pixelshot-1-tile-wikipedia-lazy-load-trap/) — 2026-07-22
-
-[The Machine Accent Travels: AI Text Is Rhythmically Monotone in 70/70 Cells Across 3 Languages](https://kenimoto.dev/blog/machine-accent-3-languages-70-70-cells/) — 2026-07-18
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-29 06:59 JST
+Last refreshed: 2026-07-30 06:56 JST
 <!-- updated ends --></sub>
