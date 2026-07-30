@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Why Earthquake Prediction Is Impossible but Aftershock Forecasting Works: Measured on 130 Noto Aftershocks](https://kenimoto.dev/blog/earthquake-prediction-vs-aftershock-forecasting/) — 2026-07-29
+
 [llmoframework Audit on 30 Dev Blogs: 4 of Top 5 Fail Same 3 Checks](https://kenimoto.dev/blog/llmoframework-audit-30-dev-blogs-top-5-fail-same-3-checks/) — 2026-07-29
 
 [Cursor Composer vs Claude Code: 400k-Token Repo Benchmarked](https://kenimoto.dev/blog/cursor-composer-vs-claude-code-400k-token-repo/) — 2026-07-28
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Karpathy Nanochat: $43K GPT-2 Training in 8,000 Lines (2026)](https://kenimoto.dev/blog/karpathy-nanochat-43k-gpt2-8000-lines/) — 2026-07-26
 
 [PinchTab Only Shoots One Viewport: Teaching a 9.4k-Star Browser Bridge to Capture Full Pages](https://kenimoto.dev/blog/pinchtab-scroll-shot-full-page-screenshots/) — 2026-07-22
-
-[pixelshot Read One Tile of an 18,609px Wikipedia Page: the Lazy-Load Trap Under Visual RAG](https://kenimoto.dev/blog/pixelshot-1-tile-wikipedia-lazy-load-trap/) — 2026-07-22
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[SDDで書いた仕様書100本を3ヶ月AIに読ませたら、8割が読まれない章だった](https://zenn.dev/kenimo49/articles/sdd-spec-100-3month-80percent-unread-chapters) — 2026-07-30
+
 [AI生成UIに10色渡したら、5色しか使われなかった -- 色収束実験の実測](https://zenn.dev/kenimo49/articles/ai-ui-10colors-5-converged-3-models) — 2026-07-28
 
 [Self-Evolvingハーネスが3ヶ月で12本の提案を出したら、承認したのは2本だった](https://zenn.dev/kenimo49/articles/self-evolving-harness-12-proposals-2-approved) — 2026-07-27
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [KGにドキュメント3種類を突っ込んだら、AIが読む優先順位が自動で決まった](https://zenn.dev/kenimo49/articles/kg-3-doctypes-ai-reading-priority-auto) — 2026-07-26
 
 [ハーネスを4層に分けたら、どの層が壊れても他の3層で救えるようになった](https://zenn.dev/kenimo49/articles/harness-4layer-fault-isolation-responsibility) — 2026-07-25
-
-[マルチエージェントを3ツール併用したら、決断疲労が起きたのは私のほうだった](https://zenn.dev/kenimo49/articles/multi-agent-3tools-decision-fatigue-human) — 2026-07-24
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -103,11 +103,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [Claude Code Max $200/月×8ヶ月を私のタスク別に分解 — 4割はローカルLLMで代替できました](https://qiita.com/kenimo49/items/dd0966d5e56089ee3b05) — 2026-07-27
 
+[Claude Codeの/compactは、直前のtool結果を7割捨てます — 実測でわかった保持境界](https://qiita.com/kenimo49/items/aff94d8468d5c7502755) — 2026-07-20
+
 [月3万円のMEO代行を13作業に分解したら、AI併用で月1.7時間だった](https://qiita.com/kenimo49/items/3726b0806d8e023cc1fb) — 2026-07-20
 
 [1Password値上げで乗り換えました:SOPS+ageで.envを複数PC共有する封筒モデル](https://qiita.com/kenimo49/items/4b0e2a555820aa0ce0bd) — 2026-07-16
-
-[音声AIの遅延はTTSではなくLLMが7割 — Whisper/LLM/TTSの3分割で実測](https://qiita.com/kenimo49/items/a465ba365538f727cb93) — 2026-07-13
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-07-30 06:56 JST
+Last refreshed: 2026-07-31 07:02 JST
 <!-- updated ends --></sub>
