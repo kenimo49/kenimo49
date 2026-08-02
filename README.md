@@ -63,6 +63,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[When Claude Code's Auto Mode Blocks Only Bash: Investigating the Safety Classifier Outage, Plus a Fail-Open-on-Outage Hook Design](https://kenimoto.dev/blog/claude-code-auto-mode-classifier-fail-open-hook/) — 2026-08-02
+
 [Chat Models Are Born in the Loss Mask — Reading nanochat's SFT](https://kenimoto.dev/blog/nanochat-sft-loss-mask-where-chat-models-are-born/) — 2026-08-02
 
 [Five Days of Tracking 346 Aftershocks From 90 km Away — and a Rematch With the 2016 Kumamoto Earthquake](https://kenimoto.dev/blog/uto-m71-aftershock-five-days-fukuoka/) — 2026-08-01
@@ -70,8 +72,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Karpathy nanochat: How GPT-2-Class Training Fell From $43,000 to $48 in 7 Years (2026 H100 Spot Math)](https://kenimoto.dev/blog/karpathy-nanochat-gpt-2-training-cost-43000-to-48-h100/) — 2026-07-31
 
 [Why Earthquake Prediction Is Impossible but Aftershock Forecasting Works: Measured on 130 Noto Aftershocks](https://kenimoto.dev/blog/earthquake-prediction-vs-aftershock-forecasting/) — 2026-07-29
-
-[llmoframework Audit on 30 Dev Blogs: 4 of Top 5 Fail Same 3 Checks](https://kenimoto.dev/blog/llmoframework-audit-30-dev-blogs-top-5-fail-same-3-checks/) — 2026-07-29
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -81,6 +81,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[Qwen 35Bの品質を7つの質問で採点したら、GPT-4に勝てるのは3領域だけだった](https://zenn.dev/kenimo49/articles/qwen-35b-7q-quality-vs-gpt4-3-domains) — 2026-08-02
+
 [会議の合意を4パターンに分類したら、3つは合意ではなかった](https://zenn.dev/kenimo49/articles/meeting-consensus-4-patterns-3-fake) — 2026-08-01
 
 [感情をKGにしたら、AIの共感応答が7パターンに分岐した](https://zenn.dev/kenimo49/articles/emotion-kg-7-empathy-response-patterns) — 2026-07-31
@@ -88,8 +90,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [SDDで書いた仕様書100本を3ヶ月AIに読ませたら、8割が読まれない章だった](https://zenn.dev/kenimo49/articles/sdd-spec-100-3month-80percent-unread-chapters) — 2026-07-30
 
 [AI生成UIに10色渡したら、5色しか使われなかった -- 色収束実験の実測](https://zenn.dev/kenimo49/articles/ai-ui-10colors-5-converged-3-models) — 2026-07-28
-
-[Self-Evolvingハーネスが3ヶ月で12本の提案を出したら、承認したのは2本だった](https://zenn.dev/kenimo49/articles/self-evolving-harness-12-proposals-2-approved) — 2026-07-27
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -119,5 +119,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-02 06:50 JST
+Last refreshed: 2026-08-03 06:51 JST
 <!-- updated ends --></sub>
