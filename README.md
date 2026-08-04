@@ -30,7 +30,15 @@ Creator of the [LLMO Framework](https://llmoframework.com). I design harnesses t
 |---|---|
 | [**LLMO Framework**](https://llmoframework.com) | The open methodology for LLM Optimization (AEO + GEO) — getting your content found and cited by AI search |
 | [**llmo-checker**](https://github.com/open-llmo/llmo-checker) | Lighthouse-style CLI that scores how AI-retrievable a URL is: llms.txt, JSON-LD, robots policy, semantic structure → 0–100 LLMO Score |
-| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Claude Code plugin that keeps sessions coherent across context compaction |
+
+### kenimoto Claude Code Kit
+
+A focused set of tools I use daily to keep Claude Code sessions productive across long work. Follow one, you'll want the others.
+
+| | |
+|---|---|
+| [**compact-ops**](https://github.com/kenimo49/compact-ops) | Preserve session state across `/compact` — no lost context, no manual re-briefing |
+| [**claude-shift**](https://github.com/kenimo49/claude-shift) | Switch between multiple Claude Code accounts safely; observe 5-hour / weekly usage across them |
 
 More: [open-llmo](https://github.com/open-llmo) (research initiative) · [voice-clone](https://github.com/kenimo49/voice-clone) (3-sec voice cloning on Qwen3-TTS) · [speech-habit-lens](https://github.com/kenimo49/speech-habit-lens) (speech analyzer) · [domain-pre-flight](https://github.com/kenimo49/domain-pre-flight) (domain checks) · [persona-hub](https://github.com/kenimo49/persona-hub) (persona SDK)
 
