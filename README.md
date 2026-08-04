@@ -39,6 +39,7 @@ A focused set of tools I use daily to keep Claude Code sessions productive acros
 |---|---|
 | [**compact-ops**](https://github.com/kenimo49/compact-ops) | Preserve session state across `/compact` — no lost context, no manual re-briefing |
 | [**claude-shift**](https://github.com/kenimo49/claude-shift) | Switch between multiple Claude Code accounts safely; observe 5-hour / weekly usage across them |
+| [**hook-chain-lens**](https://github.com/kenimo49/hook-chain-lens) | Diagnose your Claude Code hooks: see the merged fire order across user / project / plugin scopes, catch dead matchers and missing script paths |
 
 More: [open-llmo](https://github.com/open-llmo) (research initiative) · [voice-clone](https://github.com/kenimo49/voice-clone) (3-sec voice cloning on Qwen3-TTS) · [speech-habit-lens](https://github.com/kenimo49/speech-habit-lens) (speech analyzer) · [domain-pre-flight](https://github.com/kenimo49/domain-pre-flight) (domain checks) · [persona-hub](https://github.com/kenimo49/persona-hub) (persona SDK)
 
