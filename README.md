@@ -72,15 +72,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Claude Code Has Two Authentication Layers. setup-token Is Not the Same as login.](https://kenimoto.dev/blog/claude-code-two-layer-auth-setup-token/) — 2026-08-05
+
+[The Shai-Hulud npm attack: why signature verification, npm audit, and --ignore-scripts all failed](https://kenimoto.dev/blog/shai-hulud-npm-supply-chain-why-verification-failed/) — 2026-08-05
+
 [I stopped making Claude Code draw my diagrams and started drawing with it](https://kenimoto.dev/blog/claude-code-shared-canvas-diagramming/) — 2026-08-04
 
 [Claude Code: The Operator's Field Guide](https://kenimoto.dev/blog/claude-code/) — 2026-08-04
 
 [llms.txt vs Claude Skills manifest: I tested 5 AI engines to see which file they actually read](https://kenimoto.dev/blog/llms-txt-vs-claude-skills-manifest-5-ai-engines/) — 2026-08-03
-
-[When Claude Code's Auto Mode Blocks Only Bash: Investigating the Safety Classifier Outage, Plus a Fail-Open-on-Outage Hook Design](https://kenimoto.dev/blog/claude-code-auto-mode-classifier-fail-open-hook/) — 2026-08-02
-
-[Chat Models Are Born in the Loss Mask — Reading nanochat's SFT](https://kenimoto.dev/blog/nanochat-sft-loss-mask-where-chat-models-are-born/) — 2026-08-02
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[音声AIの300msを100msに感じさせる5つの錯覚ハック](https://zenn.dev/kenimo49/articles/voice-ai-300ms-100ms-5-perception-hacks) — 2026-08-05
+
 [公開repoに実名が漏れる経路はdiffだけじゃなかった。gitフックで塞いだ7つの観点](https://zenn.dev/kenimo49/articles/git-repo-real-name-leak-gate) — 2026-08-04
 
 [AIに引用される文章は明快さで決まる:5つの構造で設計する](https://zenn.dev/kenimo49/articles/ai-citation-knowledge-clarity-5-structures) — 2026-08-03
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [Qwen 35Bの品質を7つの質問で採点したら、GPT-4に勝てるのは3領域だけだった](https://zenn.dev/kenimo49/articles/qwen-35b-7q-quality-vs-gpt4-3-domains) — 2026-08-02
 
 [会議の合意を4パターンに分類したら、3つは合意ではなかった](https://zenn.dev/kenimo49/articles/meeting-consensus-4-patterns-3-fake) — 2026-08-01
-
-[感情をKGにしたら、AIの共感応答が7パターンに分岐した](https://zenn.dev/kenimo49/articles/emotion-kg-7-empathy-response-patterns) — 2026-07-31
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[Claude Code で複数アカウントを切り替えるとき、UIのactiveと実際の実行アカウントが食い違う理由](https://qiita.com/kenimo49/items/3491432793c66b5c7805) — 2026-08-05
+
 [チャットモデルは「損失マスク」で生まれる ― nanochatの8,159行でSFTを読む](https://qiita.com/kenimo49/items/b607f6810651c07dfbc1) — 2026-08-02
 
 [AI要約が「詐欺ではありません」と答える仕組み、踏み台はあなたのサイトの検索窓](https://qiita.com/kenimo49/items/8dc9b45c5ada484df784) — 2026-07-28
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Claude Code Max $200/月×8ヶ月を私のタスク別に分解 — 4割はローカルLLMで代替できました](https://qiita.com/kenimo49/items/dd0966d5e56089ee3b05) — 2026-07-27
 
 [Claude Codeの/compactは、直前のtool結果を7割捨てます — 実測でわかった保持境界](https://qiita.com/kenimo49/items/aff94d8468d5c7502755) — 2026-07-20
-
-[Qwen 35Bは平均42Wで動く — RTX 4070の消費電力プロファイルを推論中に4パターン実測](https://qiita.com/kenimo49/items/90fd069d142cb53d721a) — 2026-07-20
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-05 06:27 JST
+Last refreshed: 2026-08-06 06:26 JST
 <!-- updated ends --></sub>
