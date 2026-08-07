@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Karpathy's nanochat on a MacBook: End-to-End runcpu.sh Log from Tokenizer to Chat (2026)](https://kenimoto.dev/blog/karpathy-nanochat-macbook-runcpu-end-to-end-log/) — 2026-08-06
+
 [Claude Code Has Two Authentication Layers. setup-token Is Not the Same as login.](https://kenimoto.dev/blog/claude-code-two-layer-auth-setup-token/) — 2026-08-05
 
 [The Shai-Hulud npm attack: why signature verification, npm audit, and --ignore-scripts all failed](https://kenimoto.dev/blog/shai-hulud-npm-supply-chain-why-verification-failed/) — 2026-08-05
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [I stopped making Claude Code draw my diagrams and started drawing with it](https://kenimoto.dev/blog/claude-code-shared-canvas-diagramming/) — 2026-08-04
 
 [Claude Code: The Operator's Field Guide](https://kenimoto.dev/blog/claude-code/) — 2026-08-04
-
-[llms.txt vs Claude Skills manifest: I tested 5 AI engines to see which file they actually read](https://kenimoto.dev/blog/llms-txt-vs-claude-skills-manifest-5-ai-engines/) — 2026-08-03
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[6段階レビューを90日回したら、Stage 3に指摘の6割が集中していた](https://zenn.dev/kenimo49/articles/code-review-6stages-90days-stage3-6-percent) — 2026-08-07
+
 [Claudeと同じ図をGUIで編集できるようにしたら、「AIに図を任せる」の意味が変わった](https://zenn.dev/kenimo49/articles/claude-excalidraw-shared-canvas) — 2026-08-06
 
 [音声AIの300msを100msに感じさせる5つの錯覚ハック](https://zenn.dev/kenimo49/articles/voice-ai-300ms-100ms-5-perception-hacks) — 2026-08-05
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [公開repoに実名が漏れる経路はdiffだけじゃなかった。gitフックで塞いだ7つの観点](https://zenn.dev/kenimo49/articles/git-repo-real-name-leak-gate) — 2026-08-04
 
 [AIに引用される文章は明快さで決まる:5つの構造で設計する](https://zenn.dev/kenimo49/articles/ai-citation-knowledge-clarity-5-structures) — 2026-08-03
-
-[Qwen 35Bの品質を7つの質問で採点したら、GPT-4に勝てるのは3領域だけだった](https://zenn.dev/kenimo49/articles/qwen-35b-7q-quality-vs-gpt4-3-domains) — 2026-08-02
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-07 07:56 JST
+Last refreshed: 2026-08-08 06:14 JST
 <!-- updated ends --></sub>
