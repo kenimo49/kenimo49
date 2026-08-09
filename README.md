@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[MCPで7サービスにファイルを送ろうとしたら、完全動作は1つだけだった](https://zenn.dev/kenimo49/articles/mcp-7-services-file-upload-1-worked) — 2026-08-09
+
 [ハーネスのフィードバックループを4種類に分けたら、機能してたのは1つだけだった](https://zenn.dev/kenimo49/articles/harness-feedback-loops-4-only-1-worked) — 2026-08-08
 
 [6段階レビューを90日回したら、Stage 3に指摘の6割が集中していた](https://zenn.dev/kenimo49/articles/code-review-6stages-90days-stage3-6-percent) — 2026-08-07
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [Claudeと同じ図をGUIで編集できるようにしたら、「AIに図を任せる」の意味が変わった](https://zenn.dev/kenimo49/articles/claude-excalidraw-shared-canvas) — 2026-08-06
 
 [音声AIの300msを100msに感じさせる5つの錯覚ハック](https://zenn.dev/kenimo49/articles/voice-ai-300ms-100ms-5-perception-hacks) — 2026-08-05
-
-[公開repoに実名が漏れる経路はdiffだけじゃなかった。gitフックで塞いだ7つの観点](https://zenn.dev/kenimo49/articles/git-repo-real-name-leak-gate) — 2026-08-04
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-09 06:08 JST
+Last refreshed: 2026-08-10 06:09 JST
 <!-- updated ends --></sub>
