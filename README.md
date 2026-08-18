@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Claude Code vs ChatGPT Codex: 30-Day Cost by 7 Task Types](https://kenimoto.dev/blog/claude-code-vs-chatgpt-codex-30-day-cost-per-task-type/) — 2026-08-17
+
 [Spec-Driven Development with Claude Code: 3 Ways the Spec Itself Broke Us](https://kenimoto.dev/blog/spec-driven-development-claude-code-spec-broke-us/) — 2026-08-15
 
 [Codex CLI vs Claude Code: 7 Real Tasks, Same Repo, 31 Days Later](https://kenimoto.dev/blog/codex-cli-vs-claude-code-7-real-tasks-31-days/) — 2026-08-14
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [GitHub Copilot Agent Mode vs Claude Code: 8 Tasks, 31 Days, Real Bills](https://kenimoto.dev/blog/github-copilot-agent-mode-vs-claude-code-8-tasks-31-days/) — 2026-08-13
 
 [Claude Code vs Aider on Same 10 Tasks — One Finished 8, the Other 5](https://kenimoto.dev/blog/claude-code-vs-aider-10-tasks-eight-vs-five/) — 2026-08-12
-
-[Claude Code vs Qwen3-35B on RTX 4070: 34.6 tok/s Break-even](https://kenimoto.dev/blog/claude-code-vs-qwen3-35b-rtx-4070-benchmark/) — 2026-08-11
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[ChatGPTの?q=は長文を無言で捨てる。「AIに聞く」ボタンで踏んだ5つの罠](https://zenn.dev/kenimo49/articles/ai-assist-button-5-traps) — 2026-08-18
+
 [レビュー指摘を200件分類したら、7割は自動修正で消えるものだった](https://zenn.dev/kenimo49/articles/code-review-200-fixes-autofix-8-in-10) — 2026-08-15
 
 [Claude Codeのテスト実行を3分割したら、完走率が3倍になった](https://zenn.dev/kenimo49/articles/claude-code-npm-test-3-split-completion) — 2026-08-14
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [CLAUDE.mdパターンを15個試したら、実運用に残ったのは4つだけだった](https://zenn.dev/kenimo49/articles/claude-md-15-patterns-4-survived) — 2026-08-12
 
 [Few-shot例を5個渡したら、AIが真似したのは最後の1個だけだった](https://zenn.dev/kenimo49/articles/few-shot-5-examples-only-last-mimicked) — 2026-08-11
-
-[MCPで7サービスにファイルを送ろうとしたら、完全動作は1つだけだった](https://zenn.dev/kenimo49/articles/mcp-7-services-file-upload-1-worked) — 2026-08-09
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [自宅カラオケの伴奏をOSSで作ろうとして、詰む場所が3回変わった話](https://qiita.com/kenimo49/items/002aab35f383780beaa6) — 2026-08-11
 
+[npmサプライチェーン攻撃Shai-Hulud：トークンをrevokeする前に絶対やること](https://qiita.com/kenimo49/items/ac6f318992ba01b5eb59) — 2026-08-05
+
 [Claude Code で複数アカウントを切り替えるとき、UIのactiveと実際の実行アカウントが食い違う理由](https://qiita.com/kenimo49/items/3491432793c66b5c7805) — 2026-08-05
 
 [RTX 4070で動く12モデルを4タスクで実測した — 翻訳・要約・コード・数学の適性マトリクス](https://qiita.com/kenimo49/items/c0bbd37ccfa4b999f300) — 2026-08-03
 
 [Claude Code Skills 60個を4ヶ月運用した私の稼働率実測 — 10個は毎日/50個は死蔵だった](https://qiita.com/kenimo49/items/d3f11568e0a0e7396007) — 2026-08-03
-
-[60秒の曲は20秒、5秒の効果音は4分 — RTX 4070ローカル音声生成の実測](https://qiita.com/kenimo49/items/5c88389d746687e1a7ad) — 2026-08-03
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-18 06:06 JST
+Last refreshed: 2026-08-19 06:06 JST
 <!-- updated ends --></sub>
