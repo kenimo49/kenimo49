@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[AIっぽさの3パターンで100サイト採点したら、9割が同じ1パターンに落ちた](https://zenn.dev/kenimo49/articles/ai-slop-3-patterns-100-sites-9-in-10) — 2026-08-21
+
 [ChatGPTの?q=は長文を無言で捨てる。「AIに聞く」ボタンで踏んだ5つの罠](https://zenn.dev/kenimo49/articles/ai-assist-button-5-traps) — 2026-08-18
 
 [レビュー指摘を200件分類したら、7割は自動修正で消えるものだった](https://zenn.dev/kenimo49/articles/code-review-200-fixes-autofix-8-in-10) — 2026-08-15
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [Claude Codeのテスト実行を3分割したら、完走率が3倍になった](https://zenn.dev/kenimo49/articles/claude-code-npm-test-3-split-completion) — 2026-08-14
 
 [CLAUDE.mdパターンを15個試したら、実運用に残ったのは4つだけだった](https://zenn.dev/kenimo49/articles/claude-md-15-patterns-4-survived) — 2026-08-12
-
-[Few-shot例を5個渡したら、AIが真似したのは最後の1個だけだった](https://zenn.dev/kenimo49/articles/few-shot-5-examples-only-last-mimicked) — 2026-08-11
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -112,11 +112,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [RTX 4070で90日連続稼働したローカルLLMの電気代を気温別に測った — 夏と冬で電気代が2倍違った](https://qiita.com/kenimo49/items/e90c72bcde821c85704f) — 2026-08-10
 
+[Claude CodeでSonnet 4.6とOpus 4.7を60日並走した — 4割はSonnetが勝った](https://qiita.com/kenimo49/items/e176fc126248a899646c) — 2026-08-10
+
 [npmサプライチェーン攻撃Shai-Hulud：トークンをrevokeする前に絶対やること](https://qiita.com/kenimo49/items/ac6f318992ba01b5eb59) — 2026-08-05
 
 [Claude Code で複数アカウントを切り替えるとき、UIのactiveと実際の実行アカウントが食い違う理由](https://qiita.com/kenimo49/items/3491432793c66b5c7805) — 2026-08-05
-
-[RTX 4070で動く12モデルを4タスクで実測した — 翻訳・要約・コード・数学の適性マトリクス](https://qiita.com/kenimo49/items/c0bbd37ccfa4b999f300) — 2026-08-03
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-21 06:08 JST
+Last refreshed: 2026-08-22 06:05 JST
 <!-- updated ends --></sub>
