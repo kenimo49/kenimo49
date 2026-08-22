@@ -72,15 +72,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
-[Claude Code vs ChatGPT Codex: 30-Day Cost by 7 Task Types](https://kenimoto.dev/blog/claude-code-vs-chatgpt-codex-30-day-cost-per-task-type/) — 2026-08-17
+[Claude Skills vs Subagents in 2026: Which One To Reach For (7 Decision Rules)](https://kenimoto.dev/blog/claude-skills-vs-subagents-7-decision-rules/) — 2026-08-20
+
+[Claude Code vs ChatGPT Codex: 30-Day Cost by 7 Task Types](https://kenimoto.dev/blog/claude-code-vs-chatgpt-codex-30-day-cost-per-task-type/) — 2026-08-18
 
 [Spec-Driven Development with Claude Code: 3 Ways the Spec Itself Broke Us](https://kenimoto.dev/blog/spec-driven-development-claude-code-spec-broke-us/) — 2026-08-15
 
 [Codex CLI vs Claude Code: 7 Real Tasks, Same Repo, 31 Days Later](https://kenimoto.dev/blog/codex-cli-vs-claude-code-7-real-tasks-31-days/) — 2026-08-14
 
 [GitHub Copilot Agent Mode vs Claude Code: 8 Tasks, 31 Days, Real Bills](https://kenimoto.dev/blog/github-copilot-agent-mode-vs-claude-code-8-tasks-31-days/) — 2026-08-13
-
-[Claude Code vs Aider on Same 10 Tasks — One Finished 8, the Other 5](https://kenimoto.dev/blog/claude-code-vs-aider-10-tasks-eight-vs-five/) — 2026-08-12
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[バグ推測を1仮説から5仮説並列に変えたら、解決時間が3倍早かった](https://zenn.dev/kenimo49/articles/debug-1-to-5-parallel-hypotheses-3x) — 2026-08-22
+
 [AIっぽさの3パターンで100サイト採点したら、9割が同じ1パターンに落ちた](https://zenn.dev/kenimo49/articles/ai-slop-3-patterns-100-sites-9-in-10) — 2026-08-21
 
 [ChatGPTの?q=は長文を無言で捨てる。「AIに聞く」ボタンで踏んだ5つの罠](https://zenn.dev/kenimo49/articles/ai-assist-button-5-traps) — 2026-08-18
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [レビュー指摘を200件分類したら、7割は自動修正で消えるものだった](https://zenn.dev/kenimo49/articles/code-review-200-fixes-autofix-8-in-10) — 2026-08-15
 
 [Claude Codeのテスト実行を3分割したら、完走率が3倍になった](https://zenn.dev/kenimo49/articles/claude-code-npm-test-3-split-completion) — 2026-08-14
-
-[CLAUDE.mdパターンを15個試したら、実運用に残ったのは4つだけだった](https://zenn.dev/kenimo49/articles/claude-md-15-patterns-4-survived) — 2026-08-12
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-22 06:05 JST
+Last refreshed: 2026-08-23 06:04 JST
 <!-- updated ends --></sub>
