@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[AIに投げる前の「5分保留」を90日続けたら、質問の質が3倍になった](https://zenn.dev/kenimo49/articles/ai-5min-pause-90days-question-quality-3x) — 2026-08-24
+
 [RAGとGraphRAGを同じ100問で並べたら、勝敗が質問タイプで真っ二つに割れた](https://zenn.dev/kenimo49/articles/rag-vs-graphrag-100-questions-verdict) — 2026-08-23
 
 [バグ推測を1仮説から5仮説並列に変えたら、解決時間が3倍早かった](https://zenn.dev/kenimo49/articles/debug-1-to-5-parallel-hypotheses-3x) — 2026-08-22
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [AIっぽさの3パターンで100サイト採点したら、9割が同じ1パターンに落ちた](https://zenn.dev/kenimo49/articles/ai-slop-3-patterns-100-sites-9-in-10) — 2026-08-21
 
 [ChatGPTの?q=は長文を無言で捨てる。「AIに聞く」ボタンで踏んだ5つの罠](https://zenn.dev/kenimo49/articles/ai-assist-button-5-traps) — 2026-08-18
-
-[レビュー指摘を200件分類したら、7割は自動修正で消えるものだった](https://zenn.dev/kenimo49/articles/code-review-200-fixes-autofix-8-in-10) — 2026-08-15
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-24 06:04 JST
+Last refreshed: 2026-08-25 06:08 JST
 <!-- updated ends --></sub>
