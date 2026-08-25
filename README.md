@@ -72,15 +72,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[I Measured AI Citation Half-Life for 90 Days: 6 of 10 Sources Vanish by Week 4](https://kenimoto.dev/blog/ai-citation-90-days-6-of-10-sources-vanish/) — 2026-08-25
+
+[Static Call Graphs Miss 61% of Method Invocations. Runtime Traces Filled the Gap for AI Code Review.](https://kenimoto.dev/blog/static-call-graphs-miss-61-percent-runtime-traces-ai-code-review/) — 2026-08-25
+
 [AI Mode Cited My Portuguese 3.4× English. Japanese Also Beat English.](https://kenimoto.dev/blog/ai-mode-portuguese-vs-english-cross-language-llmo/) — 2026-08-23
 
 [Claude Skills vs Subagents in 2026: Which One To Reach For (7 Decision Rules)](https://kenimoto.dev/blog/claude-skills-vs-subagents-7-decision-rules/) — 2026-08-20
 
 [Claude Code vs ChatGPT Codex: 30-Day Cost by 7 Task Types](https://kenimoto.dev/blog/claude-code-vs-chatgpt-codex-30-day-cost-per-task-type/) — 2026-08-18
-
-[Spec-Driven Development with Claude Code: 3 Ways the Spec Itself Broke Us](https://kenimoto.dev/blog/spec-driven-development-claude-code-spec-broke-us/) — 2026-08-15
-
-[Codex CLI vs Claude Code: 7 Real Tasks, Same Repo, 31 Days Later](https://kenimoto.dev/blog/codex-cli-vs-claude-code-7-real-tasks-31-days/) — 2026-08-14
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[コードKGに90日分のgit logを入れたら、AIが影響範囲を90秒で出した](https://zenn.dev/kenimo49/articles/code-kg-90days-git-log-blast-radius-90sec) — 2026-08-25
+
 [AIに投げる前の「5分保留」を90日続けたら、質問の質が3倍になった](https://zenn.dev/kenimo49/articles/ai-5min-pause-90days-question-quality-3x) — 2026-08-24
 
 [RAGとGraphRAGを同じ100問で並べたら、勝敗が質問タイプで真っ二つに割れた](https://zenn.dev/kenimo49/articles/rag-vs-graphrag-100-questions-verdict) — 2026-08-23
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [バグ推測を1仮説から5仮説並列に変えたら、解決時間が3倍早かった](https://zenn.dev/kenimo49/articles/debug-1-to-5-parallel-hypotheses-3x) — 2026-08-22
 
 [AIっぽさの3パターンで100サイト採点したら、9割が同じ1パターンに落ちた](https://zenn.dev/kenimo49/articles/ai-slop-3-patterns-100-sites-9-in-10) — 2026-08-21
-
-[ChatGPTの?q=は長文を無言で捨てる。「AIに聞く」ボタンで踏んだ5つの罠](https://zenn.dev/kenimo49/articles/ai-assist-button-5-traps) — 2026-08-18
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-25 06:08 JST
+Last refreshed: 2026-08-26 06:07 JST
 <!-- updated ends --></sub>
