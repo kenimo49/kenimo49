@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Harness Engineering Benchmark: 13.7pt Same Model](https://kenimoto.dev/blog/harness-vs-prompt-52-to-66/) — 2026-08-28
+
 [pgvector vs Qdrant vs Weaviate at 10k: No Cliff](https://kenimoto.dev/blog/pgvector-vs-qdrant-vs-weaviate-10k-agent-memories/) — 2026-08-27
 
 [I Measured AI Citation Half-Life for 90 Days: 6 of 10 Sources Vanish by Week 4](https://kenimoto.dev/blog/ai-citation-90-days-6-of-10-sources-vanish/) — 2026-08-25
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Static Call Graphs Miss 61% of Method Invocations. Runtime Traces Filled the Gap for AI Code Review.](https://kenimoto.dev/blog/static-call-graphs-miss-61-percent-runtime-traces-ai-code-review/) — 2026-08-25
 
 [AI Mode Cited My Portuguese 3.4× English. Japanese Also Beat English.](https://kenimoto.dev/blog/ai-mode-portuguese-vs-english-cross-language-llmo/) — 2026-08-23
-
-[Claude Skills vs Subagents in 2026: Which One To Reach For (7 Decision Rules)](https://kenimoto.dev/blog/claude-skills-vs-subagents-7-decision-rules/) — 2026-08-20
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [AI検出器に弾かれるのは、雑に書いた人ではなく整えた人です](https://qiita.com/kenimo49/items/fae856d116fd6b9bbf89) — 2026-08-25
 
+[Ollamaのnum_ctxはdefault 2048 — Qwen3 32Bで実装した瞬間、文脈が切れて回答が破綻します](https://qiita.com/kenimo49/items/56632428242117771f61) — 2026-08-17
+
 [自宅カラオケの伴奏をOSSで作ろうとして、詰む場所が3回変わった話](https://qiita.com/kenimo49/items/002aab35f383780beaa6) — 2026-08-11
 
 [RTX 4070で90日連続稼働したローカルLLMの電気代を気温別に測った — 夏と冬で電気代が2倍違った](https://qiita.com/kenimo49/items/e90c72bcde821c85704f) — 2026-08-10
 
 [Claude CodeでSonnet 4.6とOpus 4.7を60日並走した — 4割はSonnetが勝った](https://qiita.com/kenimo49/items/e176fc126248a899646c) — 2026-08-10
-
-[npmサプライチェーン攻撃Shai-Hulud：トークンをrevokeする前に絶対やること](https://qiita.com/kenimo49/items/ac6f318992ba01b5eb59) — 2026-08-05
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-28 09:04 JST
+Last refreshed: 2026-08-29 07:06 JST
 <!-- updated ends --></sub>
