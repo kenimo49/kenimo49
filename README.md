@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[PINとパスワードの違いは桁数ではない: 総当たりは8回で止まる](https://qiita.com/kenimo49/items/08e46d7e9c7f3d6aafe6) — 2026-08-26
+
 [AI検出器に弾かれるのは、雑に書いた人ではなく整えた人です](https://qiita.com/kenimo49/items/fae856d116fd6b9bbf89) — 2026-08-25
 
 [Ollamaのnum_ctxはdefault 2048 — Qwen3 32Bで実装した瞬間、文脈が切れて回答が破綻します](https://qiita.com/kenimo49/items/56632428242117771f61) — 2026-08-17
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [自宅カラオケの伴奏をOSSで作ろうとして、詰む場所が3回変わった話](https://qiita.com/kenimo49/items/002aab35f383780beaa6) — 2026-08-11
 
 [RTX 4070で90日連続稼働したローカルLLMの電気代を気温別に測った — 夏と冬で電気代が2倍違った](https://qiita.com/kenimo49/items/e90c72bcde821c85704f) — 2026-08-10
-
-[Claude CodeでSonnet 4.6とOpus 4.7を60日並走した — 4割はSonnetが勝った](https://qiita.com/kenimo49/items/e176fc126248a899646c) — 2026-08-10
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-08-29 07:06 JST
+Last refreshed: 2026-08-30 06:06 JST
 <!-- updated ends --></sub>
