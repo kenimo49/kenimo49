@@ -72,15 +72,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[2.8x Traffic Spike: How to Identify Bot Traffic](https://kenimoto.dev/blog/crawler-three-types-user-agent-check/) — 2026-09-02
+
+[Bing Webmaster Tools vs Google: 787 queries](https://kenimoto.dev/blog/google-search-demand-suggest-echo-787-queries/) — 2026-09-02
+
 [Zenn noindex on Every Post: 8 Weeks Unnoticed](https://kenimoto.dev/blog/zenn-noindex-8-weeks-unnoticed/) — 2026-08-31
 
 [Harness Engineering Benchmark: 13.7pt Same Model](https://kenimoto.dev/blog/harness-vs-prompt-52-to-66/) — 2026-08-28
 
 [pgvector vs Qdrant vs Weaviate at 10k: No Cliff](https://kenimoto.dev/blog/pgvector-vs-qdrant-vs-weaviate-10k-agent-memories/) — 2026-08-27
-
-[I Measured AI Citation Half-Life for 90 Days: 6 of 10 Sources Vanish by Week 4](https://kenimoto.dev/blog/ai-citation-90-days-6-of-10-sources-vanish/) — 2026-08-25
-
-[Static Call Graphs Miss 61% of Method Invocations. Runtime Traces Filled the Gap for AI Code Review.](https://kenimoto.dev/blog/static-call-graphs-miss-61-percent-runtime-traces-ai-code-review/) — 2026-08-25
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-09-02 06:07 JST
+Last refreshed: 2026-09-03 06:06 JST
 <!-- updated ends --></sub>
