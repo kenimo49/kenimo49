@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [Git aliasは、あなたの.gitconfigをshell実行に変える3経路](https://qiita.com/kenimo49/items/bf1fd02ebf68d5f02ac5) — 2026-08-31
 
+[「人間のほうがAIっぽい」を検算したら、記事が4倍長いだけでした](https://qiita.com/kenimo49/items/d51e6f2032265f52b038) — 2026-08-29
+
 [PINとパスワードの違いは桁数ではない: 総当たりは8回で止まる](https://qiita.com/kenimo49/items/08e46d7e9c7f3d6aafe6) — 2026-08-26
 
 [AI検出器に弾かれるのは、雑に書いた人ではなく整えた人です](https://qiita.com/kenimo49/items/fae856d116fd6b9bbf89) — 2026-08-25
 
 [Ollamaのnum_ctxはdefault 2048 — Qwen3 32Bで実装した瞬間、文脈が切れて回答が破綻します](https://qiita.com/kenimo49/items/56632428242117771f61) — 2026-08-17
-
-[自宅カラオケの伴奏をOSSで作ろうとして、詰む場所が3回変わった話](https://qiita.com/kenimo49/items/002aab35f383780beaa6) — 2026-08-11
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-09-03 06:06 JST
+Last refreshed: 2026-09-04 06:07 JST
 <!-- updated ends --></sub>
