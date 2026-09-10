@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Claude Code Max vs API vs Qwen: 4h Breakeven](https://kenimoto.dev/blog/claude-code-max-vs-api-vs-qwen-hour-of-day-breakeven/) — 2026-09-09
+
 [Gemini CLI vs Claude Code: Login Blocked Day 1](https://kenimoto.dev/blog/gemini-cli-vs-claude-code-workspace-account-locked-out/) — 2026-09-08
 
 [nanochat GRPO Is Just REINFORCE + a 1-Line Regex](https://kenimoto.dev/blog/karpathy-nanochat-grpo-8000-lines-reinforce-regex/) — 2026-09-07
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [2.8x Traffic Spike: How to Identify Bot Traffic](https://kenimoto.dev/blog/crawler-three-types-user-agent-check/) — 2026-09-02
 
 [Bing Webmaster Tools vs Google: 787 queries](https://kenimoto.dev/blog/google-search-demand-suggest-echo-787-queries/) — 2026-09-02
-
-[Zenn noindex on Every Post: 8 Weeks Unnoticed](https://kenimoto.dev/blog/zenn-noindex-8-weeks-unnoticed/) — 2026-08-31
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[踏み台なしでRaspberry PiにCI/CD:権限を3層に割る](https://zenn.dev/kenimo49/articles/github-actions-raspberry-pi-tailscale-cicd) — 2026-09-11
+
 [nanochat SFT 499行を読んだら、本質は3行のmaskだった](https://zenn.dev/kenimo49/articles/nanochat-sft-499-lines-mask-3-lines) — 2026-09-01
 
 [PRコメント300件を4型に分類したら、質問型だけがマージを2倍速くしていた](https://zenn.dev/kenimo49/articles/pr-comment-4-types-question-merges-2x-faster) — 2026-08-27
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [star 3.7万のAI Slop検出Skillは、日本語だと6パターンが空振りする](https://zenn.dev/kenimo49/articles/ai-slop-skill-35-patterns-japanese-port) — 2026-08-26
 
 [コードKGに90日分のgit logを入れたら、AIが影響範囲を90秒で出した](https://zenn.dev/kenimo49/articles/code-kg-90days-git-log-blast-radius-90sec) — 2026-08-25
-
-[AIに投げる前の「5分保留」を90日続けたら、質問の質が3倍になった](https://zenn.dev/kenimo49/articles/ai-5min-pause-90days-question-quality-3x) — 2026-08-24
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-09-10 06:06 JST
+Last refreshed: 2026-09-11 06:06 JST
 <!-- updated ends --></sub>
