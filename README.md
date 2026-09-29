@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[CLAUDE.mdがあるとAGENTS.mdは黙って無視される【11通り実測】](https://zenn.dev/kenimo49/articles/claude-code-agents-md-11-layouts) — 2026-09-29
+
 [踏み台なしでRaspberry PiにCI/CD:権限を3層に割る](https://zenn.dev/kenimo49/articles/github-actions-raspberry-pi-tailscale-cicd) — 2026-09-11
 
 [nanochat SFT 499行を読んだら、本質は3行のmaskだった](https://zenn.dev/kenimo49/articles/nanochat-sft-499-lines-mask-3-lines) — 2026-09-01
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [PRコメント300件を4型に分類したら、質問型だけがマージを2倍速くしていた](https://zenn.dev/kenimo49/articles/pr-comment-4-types-question-merges-2x-faster) — 2026-08-27
 
 [star 3.7万のAI Slop検出Skillは、日本語だと6パターンが空振りする](https://zenn.dev/kenimo49/articles/ai-slop-skill-35-patterns-japanese-port) — 2026-08-26
-
-[コードKGに90日分のgit logを入れたら、AIが影響範囲を90秒で出した](https://zenn.dev/kenimo49/articles/code-kg-90days-git-log-blast-radius-90sec) — 2026-08-25
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[話題のJevをローカルLLMで再現、機密情報の見逃し20件がしきい値だけで2件に](https://qiita.com/kenimo49/items/a70d8058f433ac9e8142) — 2026-09-28
+
 [Aurora の自動バックアップとスナップショットの違い。30分毎をやめました](https://qiita.com/kenimo49/items/f44062b674eee5ca4ba9) — 2026-09-16
 
 [OllamaのModelfileはChat Templateを4パターンで上書き](https://qiita.com/kenimo49/items/84d19134775baf64a6ba) — 2026-09-14
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Git aliasは、あなたの.gitconfigをshell実行に変える3経路](https://qiita.com/kenimo49/items/bf1fd02ebf68d5f02ac5) — 2026-08-31
 
 [MCP tool descriptionは、LLMシステムを3行で乗っ取ります](https://qiita.com/kenimo49/items/f10c2d8620b86f63cf66) — 2026-08-31
-
-[「人間のほうがAIっぽい」を検算したら、記事が4倍長いだけでした](https://qiita.com/kenimo49/items/d51e6f2032265f52b038) — 2026-08-29
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-09-29 06:07 JST
+Last refreshed: 2026-09-30 06:08 JST
 <!-- updated ends --></sub>
