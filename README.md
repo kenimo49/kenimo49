@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [話題のJevをローカルLLMで再現、機密情報の見逃し20件がしきい値だけで2件に](https://qiita.com/kenimo49/items/a70d8058f433ac9e8142) — 2026-09-28
 
+[Qwen Code CLIをClaudeの隣に置いたら、2タスクで置き換わった](https://qiita.com/kenimo49/items/93ab958589644840aef4) — 2026-09-28
+
 [Aurora の自動バックアップとスナップショットの違い。30分毎をやめました](https://qiita.com/kenimo49/items/f44062b674eee5ca4ba9) — 2026-09-16
 
 [OllamaのModelfileはChat Templateを4パターンで上書き](https://qiita.com/kenimo49/items/84d19134775baf64a6ba) — 2026-09-14
 
 [Git aliasは、あなたの.gitconfigをshell実行に変える3経路](https://qiita.com/kenimo49/items/bf1fd02ebf68d5f02ac5) — 2026-08-31
-
-[MCP tool descriptionは、LLMシステムを3行で乗っ取ります](https://qiita.com/kenimo49/items/f10c2d8620b86f63cf66) — 2026-08-31
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-01 06:08 JST
+Last refreshed: 2026-10-02 06:07 JST
 <!-- updated ends --></sub>
