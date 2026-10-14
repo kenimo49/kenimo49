@@ -72,15 +72,15 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Kimi K3 vs Claude: Video Review, Same Findings](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
+
+[Web Search in 4 LLMs: Codex's Cache Went 24/24](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
+
 [Claude Code Max vs API vs Qwen: 4h Breakeven](https://kenimoto.dev/blog/claude-code-max-vs-api-vs-qwen-hour-of-day-breakeven/) — 2026-09-09
 
 [Gemini CLI vs Claude Code: Login Blocked Day 1](https://kenimoto.dev/blog/gemini-cli-vs-claude-code-workspace-account-locked-out/) — 2026-09-08
 
 [nanochat GRPO Is Just REINFORCE + a 1-Line Regex](https://kenimoto.dev/blog/karpathy-nanochat-grpo-8000-lines-reinforce-regex/) — 2026-09-07
-
-[2.8x Traffic Spike: How to Identify Bot Traffic](https://kenimoto.dev/blog/crawler-three-types-user-agent-check/) — 2026-09-02
-
-[Bing Webmaster Tools vs Google: 787 queries](https://kenimoto.dev/blog/google-search-demand-suggest-echo-787-queries/) — 2026-09-02
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[4つのLLMのウェブ検索を比べたら、Codexのキャッシュが全問正解](https://zenn.dev/kenimo49/articles/llm-web-search-claude-codex-kimi-qwen) — 2026-10-14
+
 [CLAUDE.mdがあるとAGENTS.mdは黙って無視される【11通り実測】](https://zenn.dev/kenimo49/articles/claude-code-agents-md-11-layouts) — 2026-09-29
 
 [踏み台なしでRaspberry PiにCI/CD:権限を3層に割る](https://zenn.dev/kenimo49/articles/github-actions-raspberry-pi-tailscale-cicd) — 2026-09-11
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [nanochat SFT 499行を読んだら、本質は3行のmaskだった](https://zenn.dev/kenimo49/articles/nanochat-sft-499-lines-mask-3-lines) — 2026-09-01
 
 [PRコメント300件を4型に分類したら、質問型だけがマージを2倍速くしていた](https://zenn.dev/kenimo49/articles/pr-comment-4-types-question-merges-2x-faster) — 2026-08-27
-
-[star 3.7万のAI Slop検出Skillは、日本語だと6パターンが空振りする](https://zenn.dev/kenimo49/articles/ai-slop-skill-35-patterns-japanese-port) — 2026-08-26
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[Grafana公式MCPは、適当に作ったIDだけで誰でもツールを実行できた](https://qiita.com/kenimo49/items/d4274c52cee211b4caa0) — 2026-10-14
+
 [5つのLLMを3ヶ月比較して、Claude Code 1つに戻した](https://qiita.com/kenimo49/items/d3f80d995f47a440bf9f) — 2026-10-05
 
 [話題のJevをローカルLLMで再現、機密情報の見逃し20件がしきい値だけで2件に](https://qiita.com/kenimo49/items/a70d8058f433ac9e8142) — 2026-09-28
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Qwen Code CLIをClaudeの隣に置いたら、2タスクで置き換わった](https://qiita.com/kenimo49/items/93ab958589644840aef4) — 2026-09-28
 
 [Aurora の自動バックアップとスナップショットの違い。30分毎をやめました](https://qiita.com/kenimo49/items/f44062b674eee5ca4ba9) — 2026-09-16
-
-[OllamaのModelfileはChat Templateを4パターンで上書き](https://qiita.com/kenimo49/items/84d19134775baf64a6ba) — 2026-09-14
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-14 06:07 JST
+Last refreshed: 2026-10-15 06:07 JST
 <!-- updated ends --></sub>
