@@ -114,9 +114,9 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [5つのLLMを3ヶ月比較して、Claude Code 1つに戻した](https://qiita.com/kenimo49/items/d3f80d995f47a440bf9f) — 2026-10-05
 
-[話題のJevをローカルLLMで再現、機密情報の見逃し20件がしきい値だけで2件に](https://qiita.com/kenimo49/items/a70d8058f433ac9e8142) — 2026-09-28
+[Qwen Code CLIをローカルで動かしたら、4回中3回失敗した](https://qiita.com/kenimo49/items/c9227f0532e12fd915f6) — 2026-10-05
 
-[Qwen Code CLIをClaudeの隣に置いたら、2タスクで置き換わった](https://qiita.com/kenimo49/items/93ab958589644840aef4) — 2026-09-28
+[話題のJevをローカルLLMで再現、機密情報の見逃し20件がしきい値だけで2件に](https://qiita.com/kenimo49/items/a70d8058f433ac9e8142) — 2026-09-28
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-19 06:06 JST
+Last refreshed: 2026-10-20 06:07 JST
 <!-- updated ends --></sub>
