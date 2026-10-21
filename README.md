@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃](https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3) — 2026-10-22
+
 [Codex既定のcachedは、liveに8問中0敗した -- 4LLM検索実測](https://qiita.com/kenimo49/items/7c74679d25847698913d) — 2026-10-19
 
 [Kimi K3は動画を直接読めるのに、Claudeと指摘はほぼ同じだった](https://qiita.com/kenimo49/items/d3c9b80775008b5bfb07) — 2026-10-14
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Grafana公式MCPは、適当に作ったIDだけで誰でもツールを実行できた](https://qiita.com/kenimo49/items/d4274c52cee211b4caa0) — 2026-10-14
 
 [5つのLLMを3ヶ月比較して、Claude Code 1つに戻した](https://qiita.com/kenimo49/items/d3f80d995f47a440bf9f) — 2026-10-05
-
-[Qwen Code CLIをローカルで動かしたら、4回中3回失敗した](https://qiita.com/kenimo49/items/c9227f0532e12fd915f6) — 2026-10-05
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-21 06:07 JST
+Last refreshed: 2026-10-22 06:07 JST
 <!-- updated ends --></sub>
