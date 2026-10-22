@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[php2shell Mitigation: 7 Steps Before Patching](https://kenimoto.dev/blog/php2shell-mitigation-before-patching/) — 2026-10-22
+
 [Kimi K3 vs Claude: Video Review, Same Findings](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
 
 [Web Search in 4 LLMs: Codex's Cache Went 24/24](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Claude Code Max vs API vs Qwen: 4h Breakeven](https://kenimoto.dev/blog/claude-code-max-vs-api-vs-qwen-hour-of-day-breakeven/) — 2026-09-09
 
 [Gemini CLI vs Claude Code: Login Blocked Day 1](https://kenimoto.dev/blog/gemini-cli-vs-claude-code-workspace-account-locked-out/) — 2026-09-08
-
-[nanochat GRPO Is Just REINFORCE + a 1-Line Regex](https://kenimoto.dev/blog/karpathy-nanochat-grpo-8000-lines-reinforce-regex/) — 2026-09-07
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[BATNAを3つ持たないエンジニアの技術交渉は会議室で既に負けている](https://zenn.dev/kenimo49/articles/engineer-negotiation-batna-4-principles) — 2026-10-22
+
 [ChatGPT流入+8,337%の施策を分解したら、llms.txtじゃなかった](https://zenn.dev/kenimo49/articles/chatgpt-8337-case-4-pillars-not-llms-txt) — 2026-10-15
 
 [4つのLLMのウェブ検索を比べたら、Codexのキャッシュが全問正解](https://zenn.dev/kenimo49/articles/llm-web-search-claude-codex-kimi-qwen) — 2026-10-14
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [CLAUDE.mdがあるとAGENTS.mdは黙って無視される【11通り実測】](https://zenn.dev/kenimo49/articles/claude-code-agents-md-11-layouts) — 2026-09-29
 
 [踏み台なしでRaspberry PiにCI/CD:権限を3層に割る](https://zenn.dev/kenimo49/articles/github-actions-raspberry-pi-tailscale-cicd) — 2026-09-11
-
-[nanochat SFT 499行を読んだら、本質は3行のmaskだった](https://zenn.dev/kenimo49/articles/nanochat-sft-499-lines-mask-3-lines) — 2026-09-01
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃](https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3) — 2026-10-22
 
+[Claude CodeはMCP Samplingに応じない。権限昇格の前に実測](https://qiita.com/kenimo49/items/4e30d67314cfd5182d4c) — 2026-10-21
+
 [Codex既定のcachedは、liveに8問中0敗した -- 4LLM検索実測](https://qiita.com/kenimo49/items/7c74679d25847698913d) — 2026-10-19
 
 [Kimi K3は動画を直接読めるのに、Claudeと指摘はほぼ同じだった](https://qiita.com/kenimo49/items/d3c9b80775008b5bfb07) — 2026-10-14
 
 [Grafana公式MCPは、適当に作ったIDだけで誰でもツールを実行できた](https://qiita.com/kenimo49/items/d4274c52cee211b4caa0) — 2026-10-14
-
-[5つのLLMを3ヶ月比較して、Claude Code 1つに戻した](https://qiita.com/kenimo49/items/d3f80d995f47a440bf9f) — 2026-10-05
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-22 06:07 JST
+Last refreshed: 2026-10-23 06:08 JST
 <!-- updated ends --></sub>
