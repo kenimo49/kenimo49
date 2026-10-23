@@ -112,11 +112,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [Claude CodeはMCP Samplingに応じない。権限昇格の前に実測](https://qiita.com/kenimo49/items/4e30d67314cfd5182d4c) — 2026-10-21
 
+[WebFetchをqwen3.5:9bに回した結果、11件中8件は元と一致した](https://qiita.com/kenimo49/items/7eb0e0b244bc09b5f933) — 2026-10-19
+
 [Codex既定のcachedは、liveに8問中0敗した -- 4LLM検索実測](https://qiita.com/kenimo49/items/7c74679d25847698913d) — 2026-10-19
 
 [Kimi K3は動画を直接読めるのに、Claudeと指摘はほぼ同じだった](https://qiita.com/kenimo49/items/d3c9b80775008b5bfb07) — 2026-10-14
-
-[Grafana公式MCPは、適当に作ったIDだけで誰でもツールを実行できた](https://qiita.com/kenimo49/items/d4274c52cee211b4caa0) — 2026-10-14
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-10-23 06:08 JST
+Last refreshed: 2026-10-24 06:07 JST
 <!-- updated ends --></sub>
