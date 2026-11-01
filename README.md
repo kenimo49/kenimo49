@@ -76,7 +76,7 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 
 [Kimi K3 vs Claude: Video Review, Same Findings](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
 
-[Web Search in 4 LLMs: Codex's Cache Went 24/24](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
+[Codex Hosted Search: 24/24 Only in Codex](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
 
 [Claude Code Max vs API vs Qwen: 4h Breakeven](https://kenimoto.dev/blog/claude-code-max-vs-api-vs-qwen-hour-of-day-breakeven/) — 2026-09-09
 
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-01 06:04 JST
+Last refreshed: 2026-11-02 06:04 JST
 <!-- updated ends --></sub>
