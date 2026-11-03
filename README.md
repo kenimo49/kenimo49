@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[GraphRAG自作はJEMHopQA 120問でベクトル検索73.3%に負けた](https://qiita.com/kenimo49/items/c79eac9ec482b67b0845) — 2026-11-02
+
 [作る・見る・聞くのマルチAIエージェントで動画検品、修正AIがズルを覚えた](https://qiita.com/kenimo49/items/50516b01e8f3e8c098da) — 2026-11-02
 
 [PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃](https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3) — 2026-10-22
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [Claude CodeはMCP Samplingに応じない。権限昇格の前に実測](https://qiita.com/kenimo49/items/4e30d67314cfd5182d4c) — 2026-10-21
 
 [WebFetchをqwen3.5:9bに回した結果、11件中8件は元と一致した](https://qiita.com/kenimo49/items/7eb0e0b244bc09b5f933) — 2026-10-19
-
-[Codex既定のcachedは、liveに8問中0敗した -- 4LLM検索実測](https://qiita.com/kenimo49/items/7c74679d25847698913d) — 2026-10-19
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-03 06:05 JST
+Last refreshed: 2026-11-04 06:04 JST
 <!-- updated ends --></sub>
