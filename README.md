@@ -76,7 +76,7 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 
 [php2shell Mitigation: 7 Steps Before Patching](https://kenimoto.dev/blog/php2shell-mitigation-before-patching/) — 2026-10-22
 
-[Kimi K3 vs Claude: Video Review, Same Findings](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
+[Kimi K3 Can't Make Videos: Reviewed 2 vs Claude](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
 
 [Codex Hosted Search: 24/24 Only in Codex](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
 
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-09 06:04 JST
+Last refreshed: 2026-11-10 06:04 JST
 <!-- updated ends --></sub>
