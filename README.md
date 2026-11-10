@@ -72,6 +72,8 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 ### Blog (EN)
 
 <!-- blog starts -->
+[Voice AI Stack 300ms: 5 Published Setups, 2 Fit](https://kenimoto.dev/blog/five-voice-ai-stacks-only-two-under-300ms/) — 2026-11-10
+
 [Kimi K3.1 Video QA Loop: 3 Rounds, 29 Minutes](https://kenimoto.dev/blog/kimi-k31-shorts-qa-loop/) — 2026-11-02
 
 [php2shell Mitigation: 7 Steps Before Patching](https://kenimoto.dev/blog/php2shell-mitigation-before-patching/) — 2026-10-22
@@ -79,8 +81,6 @@ Full catalog (EN / JA / PT / ES): [kenimoto.dev → Publications](https://kenimo
 [Kimi K3 Can't Make Videos: Reviewed 2 vs Claude](https://kenimoto.dev/blog/kimi-k3-video-review-vs-claude/) — 2026-10-14
 
 [Codex Hosted Search: 24/24 Only in Codex](https://kenimoto.dev/blog/llm-web-search-claude-codex-kimi-qwen/) — 2026-10-14
-
-[Claude Code Max vs API vs Qwen: 4h Breakeven](https://kenimoto.dev/blog/claude-code-max-vs-api-vs-qwen-hour-of-day-breakeven/) — 2026-09-09
 <!-- blog ends -->
 
 More on [kenimoto.dev](https://kenimoto.dev/blog/)
@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [パスワードを257文字打つだけでroot権限まで。*sshole、なんで？](https://qiita.com/kenimo49/items/a4d1b0a90cb2ec9d0cf2) — 2026-11-06
 
+[Qwen3.5:9bの1kトークンは0.7Wh、RTX 4070で187W実測](https://qiita.com/kenimo49/items/e478c3eca64d2b550cd5) — 2026-11-02
+
 [GraphRAG自作はJEMHopQA 120問でベクトル検索73.3%に負けた](https://qiita.com/kenimo49/items/c79eac9ec482b67b0845) — 2026-11-02
 
 [MCP description の正規表現lintは、本物PoCを1本素通しした](https://qiita.com/kenimo49/items/dce456610c1e6c50fbb7) — 2026-11-02
 
 [作る・見る・聞くのマルチAIエージェントで動画検品、修正AIがズルを覚えた](https://qiita.com/kenimo49/items/50516b01e8f3e8c098da) — 2026-11-02
-
-[PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃](https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3) — 2026-10-22
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-10 06:04 JST
+Last refreshed: 2026-11-11 06:04 JST
 <!-- updated ends --></sub>
