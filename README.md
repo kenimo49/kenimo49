@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[AI生成UIの動きを5パターンに分解したら、AIが絶対にやらない1つが見えた](https://zenn.dev/kenimo49/articles/ai-generated-ui-motion-5-patterns) — 2026-11-19
+
 [技術的に正しい提案が通らない理由は、Cialdiniの4原理の順番にある](https://zenn.dev/kenimo49/articles/tech-proposal-cialdini-4-principles-order) — 2026-11-12
 
 [OSS 303 PRを測ったら、pydanticの半数は他者レビューなしでマージ](https://zenn.dev/kenimo49/articles/pr-303-metrics-half-no-review) — 2026-11-04
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [BATNAを3つ持たないエンジニアの技術交渉は会議室で既に負けている](https://zenn.dev/kenimo49/articles/engineer-negotiation-batna-4-principles) — 2026-10-22
 
 [ChatGPT流入+8,337%の施策を分解したら、llms.txtじゃなかった](https://zenn.dev/kenimo49/articles/chatgpt-8337-case-4-pillars-not-llms-txt) — 2026-10-15
-
-[4つのLLMのウェブ検索を比べたら、Codexのキャッシュが全問正解](https://zenn.dev/kenimo49/articles/llm-web-search-claude-codex-kimi-qwen) — 2026-10-14
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-19 06:04 JST
+Last refreshed: 2026-11-20 06:05 JST
 <!-- updated ends --></sub>
