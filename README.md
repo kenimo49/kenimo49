@@ -112,11 +112,11 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 
 [LLM-as-a-Judgeは位置に揺れないが、12組全てで長い回答が勝った](https://qiita.com/kenimo49/items/90deda5c06bf1467efa6) — 2026-11-16
 
+[ローカルLLMで機密6件を実データで測ったら、9b単体は0件しか止まらなかった](https://qiita.com/kenimo49/items/b734de0b5bc67dabfca8) — 2026-11-16
+
 [LLM-as-a-Judgeの節約術、320件測ったらサイコロで選ぶのと同じ](https://qiita.com/kenimo49/items/f015c6b8a9bab77a6ff4) — 2026-11-12
 
 [Qwen 4Bにナレッジグラフを1歩渡すと、完全一致12.7%→1.4%に落ちた](https://qiita.com/kenimo49/items/36933ee7c2bf9fe88dd0) — 2026-11-09
-
-[ローカル4Bモデル単体で機密見逃し0を狙うと、144件中137件を誤検知した](https://qiita.com/kenimo49/items/33a33b20a0e5c71533a6) — 2026-11-09
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-24 06:04 JST
+Last refreshed: 2026-11-25 06:05 JST
 <!-- updated ends --></sub>
