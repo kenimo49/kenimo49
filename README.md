@@ -90,6 +90,8 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 ### Zenn (JA)
 
 <!-- zenn starts -->
+[人間レビューを3ミッションに絞ると、Approveの意味は設計の承認に変わる](https://zenn.dev/kenimo49/articles/human-review-3-missions-approve-shift) — 2026-11-26
+
 [AI生成UIの動きを5パターンに分解したら、AIが絶対にやらない1つが見えた](https://zenn.dev/kenimo49/articles/ai-generated-ui-motion-5-patterns) — 2026-11-19
 
 [技術的に正しい提案が通らない理由は、Cialdiniの4原理の順番にある](https://zenn.dev/kenimo49/articles/tech-proposal-cialdini-4-principles-order) — 2026-11-12
@@ -97,8 +99,6 @@ More on [kenimoto.dev](https://kenimoto.dev/blog/)
 [OSS 303 PRを測ったら、pydanticの半数は他者レビューなしでマージ](https://zenn.dev/kenimo49/articles/pr-303-metrics-half-no-review) — 2026-11-04
 
 [BATNAを3つ持たないエンジニアの技術交渉は会議室で既に負けている](https://zenn.dev/kenimo49/articles/engineer-negotiation-batna-4-principles) — 2026-10-22
-
-[ChatGPT流入+8,337%の施策を分解したら、llms.txtじゃなかった](https://zenn.dev/kenimo49/articles/chatgpt-8337-case-4-pillars-not-llms-txt) — 2026-10-15
 <!-- zenn ends -->
 
 More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
@@ -108,6 +108,8 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 ### Qiita (JA)
 
 <!-- qiita starts -->
+[CLAUDE.mdを6モジュールで棚卸ししたら、実行駆動とトレースが空でした](https://qiita.com/kenimo49/items/c7ca4ec32b4d5a608ec2) — 2026-11-23
+
 [AIエージェント向け障害注入ツール、この1年半で7つ出ていた](https://qiita.com/kenimo49/items/da3fcc7a3317ef9822bb) — 2026-11-17
 
 [LLM-as-a-Judgeは位置に揺れないが、12組全てで長い回答が勝った](https://qiita.com/kenimo49/items/90deda5c06bf1467efa6) — 2026-11-16
@@ -115,8 +117,6 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 [ローカルLLMで機密6件を実データで測ったら、9b単体は0件しか止まらなかった](https://qiita.com/kenimo49/items/b734de0b5bc67dabfca8) — 2026-11-16
 
 [LLM-as-a-Judgeの節約術、320件測ったらサイコロで選ぶのと同じ](https://qiita.com/kenimo49/items/f015c6b8a9bab77a6ff4) — 2026-11-12
-
-[Qwen 4Bにナレッジグラフを1歩渡すと、完全一致12.7%→1.4%に落ちた](https://qiita.com/kenimo49/items/36933ee7c2bf9fe88dd0) — 2026-11-09
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-26 06:05 JST
+Last refreshed: 2026-11-27 06:05 JST
 <!-- updated ends --></sub>
