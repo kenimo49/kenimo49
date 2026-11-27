@@ -110,13 +110,13 @@ More on [zenn.dev/kenimo49](https://zenn.dev/kenimo49)
 <!-- qiita starts -->
 [CLAUDE.mdを6モジュールで棚卸ししたら、実行駆動とトレースが空でした](https://qiita.com/kenimo49/items/c7ca4ec32b4d5a608ec2) — 2026-11-23
 
+[Claude Code の Skill 101本のうち、動いたのは10本でした](https://qiita.com/kenimo49/items/8a8cc8d3b8f5739ffebc) — 2026-11-23
+
 [AIエージェント向け障害注入ツール、この1年半で7つ出ていた](https://qiita.com/kenimo49/items/da3fcc7a3317ef9822bb) — 2026-11-17
 
 [LLM-as-a-Judgeは位置に揺れないが、12組全てで長い回答が勝った](https://qiita.com/kenimo49/items/90deda5c06bf1467efa6) — 2026-11-16
 
 [ローカルLLMで機密6件を実データで測ったら、9b単体は0件しか止まらなかった](https://qiita.com/kenimo49/items/b734de0b5bc67dabfca8) — 2026-11-16
-
-[LLM-as-a-Judgeの節約術、320件測ったらサイコロで選ぶのと同じ](https://qiita.com/kenimo49/items/f015c6b8a9bab77a6ff4) — 2026-11-12
 <!-- qiita ends -->
 
 More on [qiita.com/kenimo49](https://qiita.com/kenimo49)
@@ -128,5 +128,5 @@ If my tools or research helped you, you can [sponsor my open-source work](https:
 ---
 
 <sub>This README rebuilds itself daily via <a href="https://github.com/kenimo49/kenimo49/blob/main/.github/workflows/update-readme.yml">GitHub Actions</a>, pulling from <a href="https://kenimoto.dev/ai/publications.md">kenimoto.dev/ai/publications.md</a> (the AI-readable feed), Zenn, and Qiita. <!-- updated starts -->
-Last refreshed: 2026-11-27 06:05 JST
+Last refreshed: 2026-11-28 06:04 JST
 <!-- updated ends --></sub>
